@@ -1,0 +1,1463 @@
+index:  0  clause:  70 -74  support:    pivot:   end:  0
+index:  1  clause:  -74 71  support:    pivot:   end:  0
+index:  2  clause:  73 -74  support:    pivot:   end:  0
+index:  3  clause:  -131 127  support:    pivot:   end:  0
+index:  4  clause:  128 -131  support:    pivot:   end:  0
+index:  5  clause:  130 -131  support:    pivot:   end:  0
+index:  6  clause:  184 -188  support:    pivot:   end:  0
+index:  7  clause:  185 -188  support:    pivot:   end:  0
+index:  8  clause:  187 -188  support:    pivot:   end:  0
+index:  9  clause:  241 -245  support:    pivot:   end:  0
+index:  10  clause:  242 -245  support:    pivot:   end:  0
+index:  11  clause:  -245 244  support:    pivot:   end:  0
+index:  12  clause:  -302 298  support:    pivot:   end:  0
+index:  13  clause:  -302 299  support:    pivot:   end:  0
+index:  14  clause:  -302 301  support:    pivot:   end:  0
+index:  15  clause:  -359 355  support:    pivot:   end:  0
+index:  16  clause:  -359 356  support:    pivot:   end:  0
+index:  17  clause:  -359 358  support:    pivot:   end:  0
+index:  18  clause:  -416 412  support:    pivot:   end:  0
+index:  19  clause:  -416 413  support:    pivot:   end:  0
+index:  20  clause:  -416 415  support:    pivot:   end:  0
+index:  21  clause:  469 -473  support:    pivot:   end:  0
+index:  22  clause:  470 -473  support:    pivot:   end:  0
+index:  23  clause:  472 -473  support:    pivot:   end:  0
+index:  24  clause:  526 -530  support:    pivot:   end:  0
+index:  25  clause:  -530 527  support:    pivot:   end:  0
+index:  26  clause:  529 -530  support:    pivot:   end:  0
+index:  27  clause:  912 913  support:    pivot:   end:  0
+index:  28  clause:  -6 -913 914  support:    pivot:   end:  0
+index:  29  clause:  -914  support:    pivot:   end:  0
+index:  30  clause:  -1147 6  support:    pivot:   end:  0
+index:  31  clause:  1147 1182  support:    pivot:   end:  0
+index:  32  clause:  -1182 -17 1183  support:    pivot:   end:  0
+index:  33  clause:  -1183  support:    pivot:   end:  0
+index:  34  clause:  -1312 17  support:    pivot:   end:  0
+index:  35  clause:  -1492 -1147  support:    pivot:   end:  0
+index:  36  clause:  1492 1493 30  support:    pivot:   end:  0
+index:  37  clause:  -1493  support:    pivot:   end:  0
+index:  38  clause:  -30 -1494  support:    pivot:   end:  0
+index:  39  clause:  -1494 1147  support:    pivot:   end:  0
+index:  40  clause:  28 -1147 1495  support:    pivot:   end:  0
+index:  41  clause:  -1495 1147 28  support:    pivot:   end:  0
+index:  42  clause:  -1495 -28 1494  support:    pivot:   end:  0
+index:  43  clause:  -1496 -28  support:    pivot:   end:  0
+index:  44  clause:  1496 28 -912  support:    pivot:   end:  0
+index:  45  clause:  1497 27 -1147  support:    pivot:   end:  0
+index:  46  clause:  1147 27 -1497  support:    pivot:   end:  0
+index:  47  clause:  1497 -27 -1495  support:    pivot:   end:  0
+index:  48  clause:  1495 -27 -1497  support:    pivot:   end:  0
+index:  49  clause:  -912 1498 27  support:    pivot:   end:  0
+index:  50  clause:  -1496 1498 -27  support:    pivot:   end:  0
+index:  51  clause:  1496 -27 -1498  support:    pivot:   end:  0
+index:  52  clause:  -1531 -1497  support:    pivot:   end:  0
+index:  53  clause:  -1605 -1498  support:    pivot:   end:  0
+index:  54  clause:  1498 1605  support:    pivot:   end:  0
+index:  55  clause:  -1605 -35 1606  support:    pivot:   end:  0
+index:  56  clause:  35 1605 1606  support:    pivot:   end:  0
+index:  57  clause:  -1606  support:    pivot:   end:  0
+index:  58  clause:  1531 36 1607  support:    pivot:   end:  0
+index:  59  clause:  -1607  support:    pivot:   end:  0
+index:  60  clause:  -1608 -1423  support:    pivot:   end:  0
+index:  61  clause:  1608 1609 38  support:    pivot:   end:  0
+index:  62  clause:  -1609  support:    pivot:   end:  0
+index:  63  clause:  -38 -2037  support:    pivot:   end:  0
+index:  64  clause:  -2719 -36 2037  support:    pivot:   end:  0
+index:  65  clause:  -2816 1497 35  support:    pivot:   end:  0
+index:  66  clause:  -2816 -35 2719  support:    pivot:   end:  0
+index:  67  clause:  2849 1423  support:    pivot:   end:  0
+index:  68  clause:  -70 2850 -2849  support:    pivot:   end:  0
+index:  69  clause:  -2850  support:    pivot:   end:  0
+index:  70  clause:  2816 2851  support:    pivot:   end:  0
+index:  71  clause:  -71 2852 -2851  support:    pivot:   end:  0
+index:  72  clause:  -2852  support:    pivot:   end:  0
+index:  73  clause:  1312 2853  support:    pivot:   end:  0
+index:  74  clause:  -2853 2854 -73  support:    pivot:   end:  0
+index:  75  clause:  -2854  support:    pivot:   end:  0
+index:  76  clause:  73 2855  support:    pivot:   end:  0
+index:  77  clause:  -1312 2855  support:    pivot:   end:  0
+index:  78  clause:  1312 -2855 -73  support:    pivot:   end:  0
+index:  79  clause:  -2856 71  support:    pivot:   end:  0
+index:  80  clause:  70 -2953  support:    pivot:   end:  0
+index:  81  clause:  2856 -2953  support:    pivot:   end:  0
+index:  82  clause:  -2816 -3252  support:    pivot:   end:  0
+index:  83  clause:  3252 3253 87  support:    pivot:   end:  0
+index:  84  clause:  -3253  support:    pivot:   end:  0
+index:  85  clause:  -87 -3254  support:    pivot:   end:  0
+index:  86  clause:  2816 -3254  support:    pivot:   end:  0
+index:  87  clause:  -2816 85 3255  support:    pivot:   end:  0
+index:  88  clause:  2816 -3255 85  support:    pivot:   end:  0
+index:  89  clause:  -3255 -85 3254  support:    pivot:   end:  0
+index:  90  clause:  -3256 -85  support:    pivot:   end:  0
+index:  91  clause:  3256 85 -1498  support:    pivot:   end:  0
+index:  92  clause:  -2816 3257 84  support:    pivot:   end:  0
+index:  93  clause:  2816 84 -3257  support:    pivot:   end:  0
+index:  94  clause:  -3255 3257 -84  support:    pivot:   end:  0
+index:  95  clause:  3255 -84 -3257  support:    pivot:   end:  0
+index:  96  clause:  3258 84 -1498  support:    pivot:   end:  0
+index:  97  clause:  -3256 3258 -84  support:    pivot:   end:  0
+index:  98  clause:  3256 -84 -3258  support:    pivot:   end:  0
+index:  99  clause:  -3291 -3257  support:    pivot:   end:  0
+index:  100  clause:  -3453 -3258  support:    pivot:   end:  0
+index:  101  clause:  3258 3453  support:    pivot:   end:  0
+index:  102  clause:  -3453 -92 3454  support:    pivot:   end:  0
+index:  103  clause:  92 3453 3454  support:    pivot:   end:  0
+index:  104  clause:  -3454  support:    pivot:   end:  0
+index:  105  clause:  3291 93 3455  support:    pivot:   end:  0
+index:  106  clause:  -3455  support:    pivot:   end:  0
+index:  107  clause:  -3456 -3183  support:    pivot:   end:  0
+index:  108  clause:  3456 3457 95  support:    pivot:   end:  0
+index:  109  clause:  -3457  support:    pivot:   end:  0
+index:  110  clause:  -95 -3885  support:    pivot:   end:  0
+index:  111  clause:  -4535 -93 3885  support:    pivot:   end:  0
+index:  112  clause:  -4664 3257 92  support:    pivot:   end:  0
+index:  113  clause:  -4664 -92 4535  support:    pivot:   end:  0
+index:  114  clause:  4697 3183  support:    pivot:   end:  0
+index:  115  clause:  -127 4698 -4697  support:    pivot:   end:  0
+index:  116  clause:  -4698  support:    pivot:   end:  0
+index:  117  clause:  4664 4699  support:    pivot:   end:  0
+index:  118  clause:  -128 4700 -4699  support:    pivot:   end:  0
+index:  119  clause:  -4700  support:    pivot:   end:  0
+index:  120  clause:  2953 4701  support:    pivot:   end:  0
+index:  121  clause:  -130 -4701 4702  support:    pivot:   end:  0
+index:  122  clause:  -4702  support:    pivot:   end:  0
+index:  123  clause:  130 4703  support:    pivot:   end:  0
+index:  124  clause:  -2953 4703  support:    pivot:   end:  0
+index:  125  clause:  2953 -4703 -130  support:    pivot:   end:  0
+index:  126  clause:  128 -4704  support:    pivot:   end:  0
+index:  127  clause:  4704 -4833  support:    pivot:   end:  0
+index:  128  clause:  -4664 -5100  support:    pivot:   end:  0
+index:  129  clause:  144 5100 5101  support:    pivot:   end:  0
+index:  130  clause:  -5101  support:    pivot:   end:  0
+index:  131  clause:  -144 -5102  support:    pivot:   end:  0
+index:  132  clause:  4664 -5102  support:    pivot:   end:  0
+index:  133  clause:  -4664 142 5103  support:    pivot:   end:  0
+index:  134  clause:  4664 -5103 142  support:    pivot:   end:  0
+index:  135  clause:  -5103 -142 5102  support:    pivot:   end:  0
+index:  136  clause:  -5104 -142  support:    pivot:   end:  0
+index:  137  clause:  5104 -3258 142  support:    pivot:   end:  0
+index:  138  clause:  -4664 5105 141  support:    pivot:   end:  0
+index:  139  clause:  4664 141 -5105  support:    pivot:   end:  0
+index:  140  clause:  -5103 -141 5105  support:    pivot:   end:  0
+index:  141  clause:  -141 5103 -5105  support:    pivot:   end:  0
+index:  142  clause:  5106 141 -3258  support:    pivot:   end:  0
+index:  143  clause:  -5104 5106 -141  support:    pivot:   end:  0
+index:  144  clause:  5104 -141 -5106  support:    pivot:   end:  0
+index:  145  clause:  -5139 -5105  support:    pivot:   end:  0
+index:  146  clause:  -5301 -5106  support:    pivot:   end:  0
+index:  147  clause:  5106 5301  support:    pivot:   end:  0
+index:  148  clause:  -5301 5302 -149  support:    pivot:   end:  0
+index:  149  clause:  149 5302 5301  support:    pivot:   end:  0
+index:  150  clause:  -5302  support:    pivot:   end:  0
+index:  151  clause:  5139 150 5303  support:    pivot:   end:  0
+index:  152  clause:  -5303  support:    pivot:   end:  0
+index:  153  clause:  -5304 -5031  support:    pivot:   end:  0
+index:  154  clause:  5304 5305 152  support:    pivot:   end:  0
+index:  155  clause:  -5305  support:    pivot:   end:  0
+index:  156  clause:  -152 -5733  support:    pivot:   end:  0
+index:  157  clause:  -6383 -150 5733  support:    pivot:   end:  0
+index:  158  clause:  -6512 5105 149  support:    pivot:   end:  0
+index:  159  clause:  -6512 -149 6383  support:    pivot:   end:  0
+index:  160  clause:  6545 5031  support:    pivot:   end:  0
+index:  161  clause:  -184 6546 -6545  support:    pivot:   end:  0
+index:  162  clause:  -6546  support:    pivot:   end:  0
+index:  163  clause:  6512 6547  support:    pivot:   end:  0
+index:  164  clause:  6548 -6547 -185  support:    pivot:   end:  0
+index:  165  clause:  -6548  support:    pivot:   end:  0
+index:  166  clause:  4833 6549  support:    pivot:   end:  0
+index:  167  clause:  -6549 -187 6550  support:    pivot:   end:  0
+index:  168  clause:  -6550  support:    pivot:   end:  0
+index:  169  clause:  187 6551  support:    pivot:   end:  0
+index:  170  clause:  -4833 6551  support:    pivot:   end:  0
+index:  171  clause:  4833 -187 -6551  support:    pivot:   end:  0
+index:  172  clause:  -6552 185  support:    pivot:   end:  0
+index:  173  clause:  184 -6681  support:    pivot:   end:  0
+index:  174  clause:  6552 -6681  support:    pivot:   end:  0
+index:  175  clause:  -6512 -6948  support:    pivot:   end:  0
+index:  176  clause:  201 6948 6949  support:    pivot:   end:  0
+index:  177  clause:  -6949  support:    pivot:   end:  0
+index:  178  clause:  -6950 -201  support:    pivot:   end:  0
+index:  179  clause:  6512 -6950  support:    pivot:   end:  0
+index:  180  clause:  -6512 199 6951  support:    pivot:   end:  0
+index:  181  clause:  6512 -6951 199  support:    pivot:   end:  0
+index:  182  clause:  -199 -6951 6950  support:    pivot:   end:  0
+index:  183  clause:  -6952 -199  support:    pivot:   end:  0
+index:  184  clause:  -6952 5106  support:    pivot:   end:  0
+index:  185  clause:  6952 -5106 199  support:    pivot:   end:  0
+index:  186  clause:  -6512 6953 198  support:    pivot:   end:  0
+index:  187  clause:  6512 198 -6953  support:    pivot:   end:  0
+index:  188  clause:  -6951 -198 6953  support:    pivot:   end:  0
+index:  189  clause:  -198 -6953 6951  support:    pivot:   end:  0
+index:  190  clause:  6954 198 -5106  support:    pivot:   end:  0
+index:  191  clause:  5106 -6954 198  support:    pivot:   end:  0
+index:  192  clause:  -6952 -198 6954  support:    pivot:   end:  0
+index:  193  clause:  6952 -198 -6954  support:    pivot:   end:  0
+index:  194  clause:  -6987 -6953  support:    pivot:   end:  0
+index:  195  clause:  -7149 -6954  support:    pivot:   end:  0
+index:  196  clause:  6954 7149  support:    pivot:   end:  0
+index:  197  clause:  -206 -7149 7150  support:    pivot:   end:  0
+index:  198  clause:  206 7149 7150  support:    pivot:   end:  0
+index:  199  clause:  -7150  support:    pivot:   end:  0
+index:  200  clause:  207 6987 7151  support:    pivot:   end:  0
+index:  201  clause:  -7151  support:    pivot:   end:  0
+index:  202  clause:  -7152 -6879  support:    pivot:   end:  0
+index:  203  clause:  7152 209 7153  support:    pivot:   end:  0
+index:  204  clause:  -7153  support:    pivot:   end:  0
+index:  205  clause:  -7581 -209  support:    pivot:   end:  0
+index:  206  clause:  -8199 7581 -207  support:    pivot:   end:  0
+index:  207  clause:  -8360 6953 206  support:    pivot:   end:  0
+index:  208  clause:  -8360 -206 8199  support:    pivot:   end:  0
+index:  209  clause:  8393 6879  support:    pivot:   end:  0
+index:  210  clause:  8394 -241 -8393  support:    pivot:   end:  0
+index:  211  clause:  -8394  support:    pivot:   end:  0
+index:  212  clause:  8360 8395  support:    pivot:   end:  0
+index:  213  clause:  8396 -8395 -242  support:    pivot:   end:  0
+index:  214  clause:  -8396  support:    pivot:   end:  0
+index:  215  clause:  6681 8397  support:    pivot:   end:  0
+index:  216  clause:  -8397 -244 8398  support:    pivot:   end:  0
+index:  217  clause:  -8398  support:    pivot:   end:  0
+index:  218  clause:  244 8399  support:    pivot:   end:  0
+index:  219  clause:  -6681 8399  support:    pivot:   end:  0
+index:  220  clause:  6681 -244 -8399  support:    pivot:   end:  0
+index:  221  clause:  -8400 242  support:    pivot:   end:  0
+index:  222  clause:  8400 -8529  support:    pivot:   end:  0
+index:  223  clause:  -8360 -8796  support:    pivot:   end:  0
+index:  224  clause:  258 8796 8797  support:    pivot:   end:  0
+index:  225  clause:  -8797  support:    pivot:   end:  0
+index:  226  clause:  -8798 -258  support:    pivot:   end:  0
+index:  227  clause:  8360 -8798  support:    pivot:   end:  0
+index:  228  clause:  -8360 256 8799  support:    pivot:   end:  0
+index:  229  clause:  256 -8799 8360  support:    pivot:   end:  0
+index:  230  clause:  -256 -8799 8798  support:    pivot:   end:  0
+index:  231  clause:  -256 -8800  support:    pivot:   end:  0
+index:  232  clause:  -8800 6954  support:    pivot:   end:  0
+index:  233  clause:  256 8800 -6954  support:    pivot:   end:  0
+index:  234  clause:  -8360 8801 255  support:    pivot:   end:  0
+index:  235  clause:  8360 -8801 255  support:    pivot:   end:  0
+index:  236  clause:  8801 -8799 -255  support:    pivot:   end:  0
+index:  237  clause:  -8801 -255 8799  support:    pivot:   end:  0
+index:  238  clause:  8802 -6954 255  support:    pivot:   end:  0
+index:  239  clause:  6954 -8802 255  support:    pivot:   end:  0
+index:  240  clause:  -8800 -255 8802  support:    pivot:   end:  0
+index:  241  clause:  8800 -255 -8802  support:    pivot:   end:  0
+index:  242  clause:  -8835 -8801  support:    pivot:   end:  0
+index:  243  clause:  -8997 -8802  support:    pivot:   end:  0
+index:  244  clause:  8802 8997  support:    pivot:   end:  0
+index:  245  clause:  -263 -8997 8998  support:    pivot:   end:  0
+index:  246  clause:  8997 8998 263  support:    pivot:   end:  0
+index:  247  clause:  -8998  support:    pivot:   end:  0
+index:  248  clause:  264 8835 8999  support:    pivot:   end:  0
+index:  249  clause:  -8999  support:    pivot:   end:  0
+index:  250  clause:  -9000 -8727  support:    pivot:   end:  0
+index:  251  clause:  9000 9001 266  support:    pivot:   end:  0
+index:  252  clause:  -9001  support:    pivot:   end:  0
+index:  253  clause:  -9429 -266  support:    pivot:   end:  0
+index:  254  clause:  -264 -10079 9429  support:    pivot:   end:  0
+index:  255  clause:  -10208 8801 263  support:    pivot:   end:  0
+index:  256  clause:  -10208 -263 10079  support:    pivot:   end:  0
+index:  257  clause:  10241 8727  support:    pivot:   end:  0
+index:  258  clause:  10242 -298 -10241  support:    pivot:   end:  0
+index:  259  clause:  -10242  support:    pivot:   end:  0
+index:  260  clause:  10208 10243  support:    pivot:   end:  0
+index:  261  clause:  -10243 10244 -299  support:    pivot:   end:  0
+index:  262  clause:  -10244  support:    pivot:   end:  0
+index:  263  clause:  8529 10245  support:    pivot:   end:  0
+index:  264  clause:  -10245 -301 10246  support:    pivot:   end:  0
+index:  265  clause:  -10246  support:    pivot:   end:  0
+index:  266  clause:  301 10247  support:    pivot:   end:  0
+index:  267  clause:  -8529 10247  support:    pivot:   end:  0
+index:  268  clause:  8529 -301 -10247  support:    pivot:   end:  0
+index:  269  clause:  -10248 299  support:    pivot:   end:  0
+index:  270  clause:  10248 -10345  support:    pivot:   end:  0
+index:  271  clause:  -10208 -10644  support:    pivot:   end:  0
+index:  272  clause:  315 10644 10645  support:    pivot:   end:  0
+index:  273  clause:  -10645  support:    pivot:   end:  0
+index:  274  clause:  -10646 -315  support:    pivot:   end:  0
+index:  275  clause:  10208 -10646  support:    pivot:   end:  0
+index:  276  clause:  -10208 313 10647  support:    pivot:   end:  0
+index:  277  clause:  10208 -10647 313  support:    pivot:   end:  0
+index:  278  clause:  -10647 10646 -313  support:    pivot:   end:  0
+index:  279  clause:  -10648 -313  support:    pivot:   end:  0
+index:  280  clause:  -10648 8802  support:    pivot:   end:  0
+index:  281  clause:  10648 313 -8802  support:    pivot:   end:  0
+index:  282  clause:  -10208 10649 312  support:    pivot:   end:  0
+index:  283  clause:  10208 312 -10649  support:    pivot:   end:  0
+index:  284  clause:  -312 -10647 10649  support:    pivot:   end:  0
+index:  285  clause:  -312 -10649 10647  support:    pivot:   end:  0
+index:  286  clause:  312 10650 -8802  support:    pivot:   end:  0
+index:  287  clause:  312 8802 -10650  support:    pivot:   end:  0
+index:  288  clause:  -312 10650 -10648  support:    pivot:   end:  0
+index:  289  clause:  -312 10648 -10650  support:    pivot:   end:  0
+index:  290  clause:  -10683 -10649  support:    pivot:   end:  0
+index:  291  clause:  -10845 -10650  support:    pivot:   end:  0
+index:  292  clause:  10650 10845  support:    pivot:   end:  0
+index:  293  clause:  -320 -10845 10846  support:    pivot:   end:  0
+index:  294  clause:  320 10845 10846  support:    pivot:   end:  0
+index:  295  clause:  -10846  support:    pivot:   end:  0
+index:  296  clause:  321 10683 10847  support:    pivot:   end:  0
+index:  297  clause:  -10847  support:    pivot:   end:  0
+index:  298  clause:  -10848 -10575  support:    pivot:   end:  0
+index:  299  clause:  10848 10849 323  support:    pivot:   end:  0
+index:  300  clause:  -10849  support:    pivot:   end:  0
+index:  301  clause:  -11277 -323  support:    pivot:   end:  0
+index:  302  clause:  -11927 11277 -321  support:    pivot:   end:  0
+index:  303  clause:  -12056 10649 320  support:    pivot:   end:  0
+index:  304  clause:  -320 -12056 11927  support:    pivot:   end:  0
+index:  305  clause:  12089 10575  support:    pivot:   end:  0
+index:  306  clause:  12090 -355 -12089  support:    pivot:   end:  0
+index:  307  clause:  -12090  support:    pivot:   end:  0
+index:  308  clause:  12056 12091  support:    pivot:   end:  0
+index:  309  clause:  -356 -12091 12092  support:    pivot:   end:  0
+index:  310  clause:  -12092  support:    pivot:   end:  0
+index:  311  clause:  10345 12093  support:    pivot:   end:  0
+index:  312  clause:  -358 -12093 12094  support:    pivot:   end:  0
+index:  313  clause:  -12094  support:    pivot:   end:  0
+index:  314  clause:  358 12095  support:    pivot:   end:  0
+index:  315  clause:  -10345 12095  support:    pivot:   end:  0
+index:  316  clause:  10345 -358 -12095  support:    pivot:   end:  0
+index:  317  clause:  -12096 356  support:    pivot:   end:  0
+index:  318  clause:  12096 -12225  support:    pivot:   end:  0
+index:  319  clause:  -12056 -12492  support:    pivot:   end:  0
+index:  320  clause:  372 12492 12493  support:    pivot:   end:  0
+index:  321  clause:  -12493  support:    pivot:   end:  0
+index:  322  clause:  -12494 -372  support:    pivot:   end:  0
+index:  323  clause:  12056 -12494  support:    pivot:   end:  0
+index:  324  clause:  -12056 370 12495  support:    pivot:   end:  0
+index:  325  clause:  12056 -12495 370  support:    pivot:   end:  0
+index:  326  clause:  -12495 -370 12494  support:    pivot:   end:  0
+index:  327  clause:  -12496 -370  support:    pivot:   end:  0
+index:  328  clause:  -12496 10650  support:    pivot:   end:  0
+index:  329  clause:  12496 370 -10650  support:    pivot:   end:  0
+index:  330  clause:  -12056 369 12497  support:    pivot:   end:  0
+index:  331  clause:  12056 369 -12497  support:    pivot:   end:  0
+index:  332  clause:  12497 -12495 -369  support:    pivot:   end:  0
+index:  333  clause:  12495 -12497 -369  support:    pivot:   end:  0
+index:  334  clause:  369 12498 -10650  support:    pivot:   end:  0
+index:  335  clause:  369 10650 -12498  support:    pivot:   end:  0
+index:  336  clause:  -12496 12498 -369  support:    pivot:   end:  0
+index:  337  clause:  12496 -12498 -369  support:    pivot:   end:  0
+index:  338  clause:  -12531 -12497  support:    pivot:   end:  0
+index:  339  clause:  -12693 -12498  support:    pivot:   end:  0
+index:  340  clause:  12498 12693  support:    pivot:   end:  0
+index:  341  clause:  -12693 12694 -377  support:    pivot:   end:  0
+index:  342  clause:  377 12693 12694  support:    pivot:   end:  0
+index:  343  clause:  -12694  support:    pivot:   end:  0
+index:  344  clause:  378 12531 12695  support:    pivot:   end:  0
+index:  345  clause:  -12695  support:    pivot:   end:  0
+index:  346  clause:  -12696 -12423  support:    pivot:   end:  0
+index:  347  clause:  12696 12697 380  support:    pivot:   end:  0
+index:  348  clause:  -12697  support:    pivot:   end:  0
+index:  349  clause:  -13125 -380  support:    pivot:   end:  0
+index:  350  clause:  -13775 13125 -378  support:    pivot:   end:  0
+index:  351  clause:  -13904 12497 377  support:    pivot:   end:  0
+index:  352  clause:  -13904 13775 -377  support:    pivot:   end:  0
+index:  353  clause:  13937 12423  support:    pivot:   end:  0
+index:  354  clause:  13938 -412 -13937  support:    pivot:   end:  0
+index:  355  clause:  -13938  support:    pivot:   end:  0
+index:  356  clause:  13904 13939  support:    pivot:   end:  0
+index:  357  clause:  -413 13940 -13939  support:    pivot:   end:  0
+index:  358  clause:  -13940  support:    pivot:   end:  0
+index:  359  clause:  12225 13941  support:    pivot:   end:  0
+index:  360  clause:  -415 -13941 13942  support:    pivot:   end:  0
+index:  361  clause:  -13942  support:    pivot:   end:  0
+index:  362  clause:  415 13943  support:    pivot:   end:  0
+index:  363  clause:  -12225 13943  support:    pivot:   end:  0
+index:  364  clause:  12225 -13943 -415  support:    pivot:   end:  0
+index:  365  clause:  -13944 413  support:    pivot:   end:  0
+index:  366  clause:  13944 -14073  support:    pivot:   end:  0
+index:  367  clause:  -13904 -14340  support:    pivot:   end:  0
+index:  368  clause:  14340 14341 429  support:    pivot:   end:  0
+index:  369  clause:  -14341  support:    pivot:   end:  0
+index:  370  clause:  -14342 -429  support:    pivot:   end:  0
+index:  371  clause:  13904 -14342  support:    pivot:   end:  0
+index:  372  clause:  -13904 427 14343  support:    pivot:   end:  0
+index:  373  clause:  13904 -14343 427  support:    pivot:   end:  0
+index:  374  clause:  -14343 -427 14342  support:    pivot:   end:  0
+index:  375  clause:  -14344 -427  support:    pivot:   end:  0
+index:  376  clause:  -14344 12498  support:    pivot:   end:  0
+index:  377  clause:  14344 427 -12498  support:    pivot:   end:  0
+index:  378  clause:  -13904 14345 426  support:    pivot:   end:  0
+index:  379  clause:  13904 426 -14345  support:    pivot:   end:  0
+index:  380  clause:  -14343 -426 14345  support:    pivot:   end:  0
+index:  381  clause:  -14345 -426 14343  support:    pivot:   end:  0
+index:  382  clause:  426 14346 -12498  support:    pivot:   end:  0
+index:  383  clause:  426 12498 -14346  support:    pivot:   end:  0
+index:  384  clause:  -14344 14346 -426  support:    pivot:   end:  0
+index:  385  clause:  14344 -14346 -426  support:    pivot:   end:  0
+index:  386  clause:  -14379 -14345  support:    pivot:   end:  0
+index:  387  clause:  -14541 -14346  support:    pivot:   end:  0
+index:  388  clause:  14346 14541  support:    pivot:   end:  0
+index:  389  clause:  -434 -14541 14542  support:    pivot:   end:  0
+index:  390  clause:  434 14541 14542  support:    pivot:   end:  0
+index:  391  clause:  -14542  support:    pivot:   end:  0
+index:  392  clause:  14379 435 14543  support:    pivot:   end:  0
+index:  393  clause:  -14543  support:    pivot:   end:  0
+index:  394  clause:  -14544 -14271  support:    pivot:   end:  0
+index:  395  clause:  14544 14545 437  support:    pivot:   end:  0
+index:  396  clause:  -14545  support:    pivot:   end:  0
+index:  397  clause:  -437 -14973  support:    pivot:   end:  0
+index:  398  clause:  14973 -15623 -435  support:    pivot:   end:  0
+index:  399  clause:  -15752 14345 434  support:    pivot:   end:  0
+index:  400  clause:  -15752 -434 15623  support:    pivot:   end:  0
+index:  401  clause:  15785 14271  support:    pivot:   end:  0
+index:  402  clause:  15786 -469 -15785  support:    pivot:   end:  0
+index:  403  clause:  -15786  support:    pivot:   end:  0
+index:  404  clause:  15752 15787  support:    pivot:   end:  0
+index:  405  clause:  -470 15788 -15787  support:    pivot:   end:  0
+index:  406  clause:  -15788  support:    pivot:   end:  0
+index:  407  clause:  14073 15789  support:    pivot:   end:  0
+index:  408  clause:  -472 -15789 15790  support:    pivot:   end:  0
+index:  409  clause:  -15790  support:    pivot:   end:  0
+index:  410  clause:  472 15791  support:    pivot:   end:  0
+index:  411  clause:  -14073 15791  support:    pivot:   end:  0
+index:  412  clause:  -472 14073 -15791  support:    pivot:   end:  0
+index:  413  clause:  -15792 470  support:    pivot:   end:  0
+index:  414  clause:  469 -15921  support:    pivot:   end:  0
+index:  415  clause:  15792 -15921  support:    pivot:   end:  0
+index:  416  clause:  -15752 -16188  support:    pivot:   end:  0
+index:  417  clause:  16188 16189 486  support:    pivot:   end:  0
+index:  418  clause:  -16189  support:    pivot:   end:  0
+index:  419  clause:  -16190 -486  support:    pivot:   end:  0
+index:  420  clause:  15752 -16190  support:    pivot:   end:  0
+index:  421  clause:  -15752 484 16191  support:    pivot:   end:  0
+index:  422  clause:  -16191 -484 16190  support:    pivot:   end:  0
+index:  423  clause:  -16192 -484  support:    pivot:   end:  0
+index:  424  clause:  16192 484 -14346  support:    pivot:   end:  0
+index:  425  clause:  -15752 16193 483  support:    pivot:   end:  0
+index:  426  clause:  16193 -16191 -483  support:    pivot:   end:  0
+index:  427  clause:  16191 -483 -16193  support:    pivot:   end:  0
+index:  428  clause:  16194 483 -14346  support:    pivot:   end:  0
+index:  429  clause:  -16192 16194 -483  support:    pivot:   end:  0
+index:  430  clause:  16192 -483 -16194  support:    pivot:   end:  0
+index:  431  clause:  -16227 -16193  support:    pivot:   end:  0
+index:  432  clause:  -16389 -16194  support:    pivot:   end:  0
+index:  433  clause:  16194 16389  support:    pivot:   end:  0
+index:  434  clause:  -16389 -491 16390  support:    pivot:   end:  0
+index:  435  clause:  491 16389 16390  support:    pivot:   end:  0
+index:  436  clause:  -16390  support:    pivot:   end:  0
+index:  437  clause:  16227 492 16391  support:    pivot:   end:  0
+index:  438  clause:  -16391  support:    pivot:   end:  0
+index:  439  clause:  -16392 -16119  support:    pivot:   end:  0
+index:  440  clause:  16392 16393 494  support:    pivot:   end:  0
+index:  441  clause:  -16393  support:    pivot:   end:  0
+index:  442  clause:  -494 -16821  support:    pivot:   end:  0
+index:  443  clause:  -17471 -492 16821  support:    pivot:   end:  0
+index:  444  clause:  -17600 16193 491  support:    pivot:   end:  0
+index:  445  clause:  -17600 -491 17471  support:    pivot:   end:  0
+index:  446  clause:  17633 16119  support:    pivot:   end:  0
+index:  447  clause:  -526 17634 -17633  support:    pivot:   end:  0
+index:  448  clause:  -17634  support:    pivot:   end:  0
+index:  449  clause:  17600 17635  support:    pivot:   end:  0
+index:  450  clause:  -527 17636 -17635  support:    pivot:   end:  0
+index:  451  clause:  -17636  support:    pivot:   end:  0
+index:  452  clause:  15921 17637  support:    pivot:   end:  0
+index:  453  clause:  -17637 17638 -529  support:    pivot:   end:  0
+index:  454  clause:  -17638  support:    pivot:   end:  0
+index:  455  clause:  529 17639  support:    pivot:   end:  0
+index:  456  clause:  -15921 17639  support:    pivot:   end:  0
+index:  457  clause:  15921 -17639 -529  support:    pivot:   end:  0
+index:  458  clause:  131 28095  support:    pivot:   end:  0
+index:  459  clause:  28097 188  support:    pivot:   end:  0
+index:  460  clause:  28099 245  support:    pivot:   end:  0
+index:  461  clause:  28101 302  support:    pivot:   end:  0
+index:  462  clause:  359 28103  support:    pivot:   end:  0
+index:  463  clause:  416 28105  support:    pivot:   end:  0
+index:  464  clause:  473 28107  support:    pivot:   end:  0
+index:  465  clause:  530 28109  support:    pivot:   end:  0
+index:  466  clause:  -28095 74 -28109 -28107 -28105 -28103 -28101 -28099 -28097  support:    pivot:   end:  0
+index:  467  clause:  -1494 -1492  support:  39 35  pivot:  1147 end:  0
+index:  468  clause:  1493 -1494 30  support:  467 36  pivot:  -1492 end:  0
+index:  469  clause:  1493 -1494  support:  468 38  pivot:  30 end:  0
+index:  470  clause:  -1494  support:  469 37  pivot:  1493 end:  0
+index:  471  clause:  -3254 -3252  support:  86 82  pivot:  2816 end:  0
+index:  472  clause:  3253 87 -3254  support:  471 83  pivot:  -3252 end:  0
+index:  473  clause:  3253 -3254  support:  472 85  pivot:  87 end:  0
+index:  474  clause:  -3254  support:  473 84  pivot:  3253 end:  0
+index:  475  clause:  -5102 -5100  support:  132 128  pivot:  4664 end:  0
+index:  476  clause:  144 -5102 5101  support:  475 129  pivot:  -5100 end:  0
+index:  477  clause:  -5102 5101  support:  476 131  pivot:  144 end:  0
+index:  478  clause:  -5102  support:  477 130  pivot:  5101 end:  0
+index:  479  clause:  -6950 -6948  support:  179 175  pivot:  6512 end:  0
+index:  480  clause:  6949 201 -6950  support:  479 176  pivot:  -6948 end:  0
+index:  481  clause:  6949 -6950  support:  480 178  pivot:  201 end:  0
+index:  482  clause:  -6950  support:  481 177  pivot:  6949 end:  0
+index:  483  clause:  -8798 -8796  support:  227 223  pivot:  8360 end:  0
+index:  484  clause:  -8798 258 8797  support:  483 224  pivot:  -8796 end:  0
+index:  485  clause:  -8798 8797  support:  484 226  pivot:  258 end:  0
+index:  486  clause:  -8798  support:  485 225  pivot:  8797 end:  0
+index:  487  clause:  -10646 -10644  support:  275 271  pivot:  10208 end:  0
+index:  488  clause:  10645 -10646 315  support:  487 272  pivot:  -10644 end:  0
+index:  489  clause:  10645 -10646  support:  488 274  pivot:  315 end:  0
+index:  490  clause:  -10646  support:  489 273  pivot:  10645 end:  0
+index:  491  clause:  -12494 -12492  support:  323 319  pivot:  12056 end:  0
+index:  492  clause:  -12494 372 12493  support:  491 320  pivot:  -12492 end:  0
+index:  493  clause:  -12494 12493  support:  492 322  pivot:  372 end:  0
+index:  494  clause:  -12494  support:  493 321  pivot:  12493 end:  0
+index:  495  clause:  -14342 -14340  support:  371 367  pivot:  13904 end:  0
+index:  496  clause:  14341 -14342 429  support:  495 368  pivot:  -14340 end:  0
+index:  497  clause:  14341 -14342  support:  496 370  pivot:  429 end:  0
+index:  498  clause:  -14342  support:  497 369  pivot:  14341 end:  0
+index:  499  clause:  -16190 -16188  support:  420 416  pivot:  15752 end:  0
+index:  500  clause:  -16190 486 16189  support:  499 417  pivot:  -16188 end:  0
+index:  501  clause:  -16190 16189  support:  500 419  pivot:  486 end:  0
+index:  502  clause:  -16190  support:  501 418  pivot:  16189 end:  0
+index:  503  clause:  2853 2855  support:  77 73  pivot:  -1312 end:  0
+index:  504  clause:  -73 2854 2855  support:  503 74  pivot:  2853 end:  0
+index:  505  clause:  2854 2855  support:  504 76  pivot:  -73 end:  0
+index:  506  clause:  2855  support:  505 75  pivot:  2854 end:  0
+index:  507  clause:  4701 4703  support:  124 120  pivot:  -2953 end:  0
+index:  508  clause:  4702 -130 4703  support:  507 121  pivot:  4701 end:  0
+index:  509  clause:  4702 4703  support:  508 123  pivot:  -130 end:  0
+index:  510  clause:  4703  support:  509 122  pivot:  4702 end:  0
+index:  511  clause:  6549 6551  support:  170 166  pivot:  -4833 end:  0
+index:  512  clause:  -187 6551 6550  support:  511 167  pivot:  6549 end:  0
+index:  513  clause:  6550 6551  support:  512 169  pivot:  -187 end:  0
+index:  514  clause:  6551  support:  513 168  pivot:  6550 end:  0
+index:  515  clause:  8397 8399  support:  219 215  pivot:  -6681 end:  0
+index:  516  clause:  -244 8398 8399  support:  515 216  pivot:  8397 end:  0
+index:  517  clause:  8398 8399  support:  516 218  pivot:  -244 end:  0
+index:  518  clause:  8399  support:  517 217  pivot:  8398 end:  0
+index:  519  clause:  10245 10247  support:  267 263  pivot:  -8529 end:  0
+index:  520  clause:  -301 10246 10247  support:  519 264  pivot:  10245 end:  0
+index:  521  clause:  10246 10247  support:  520 266  pivot:  -301 end:  0
+index:  522  clause:  10247  support:  521 265  pivot:  10246 end:  0
+index:  523  clause:  12093 12095  support:  315 311  pivot:  -10345 end:  0
+index:  524  clause:  -358 12094 12095  support:  523 312  pivot:  12093 end:  0
+index:  525  clause:  12094 12095  support:  524 314  pivot:  -358 end:  0
+index:  526  clause:  12095  support:  525 313  pivot:  12094 end:  0
+index:  527  clause:  13941 13943  support:  363 359  pivot:  -12225 end:  0
+index:  528  clause:  -415 13942 13943  support:  527 360  pivot:  13941 end:  0
+index:  529  clause:  13942 13943  support:  528 362  pivot:  -415 end:  0
+index:  530  clause:  13943  support:  529 361  pivot:  13942 end:  0
+index:  531  clause:  15789 15791  support:  411 407  pivot:  -14073 end:  0
+index:  532  clause:  -472 15790 15791  support:  531 408  pivot:  15789 end:  0
+index:  533  clause:  15790 15791  support:  532 410  pivot:  -472 end:  0
+index:  534  clause:  15791  support:  533 409  pivot:  15790 end:  0
+index:  535  clause:  17637 17639  support:  456 452  pivot:  -15921 end:  0
+index:  536  clause:  17638 17639 -529  support:  535 453  pivot:  17637 end:  0
+index:  537  clause:  17638 17639  support:  536 455  pivot:  -529 end:  0
+index:  538  clause:  17639  support:  537 454  pivot:  17638 end:  0
+index:  539  clause:  13904 14342 -14343  support:  374 373  pivot:  -427 end:  0
+index:  540  clause:  13904 -14343  support:  539 498  pivot:  14342 end:  0
+index:  541  clause:  -14541 -15752 14345 14542  support:  399 389  pivot:  434 end:  0
+index:  542  clause:  -14541 -15752 14345  support:  541 391  pivot:  14542 end:  0
+index:  543  clause:  -15752 14345 14346  support:  542 388  pivot:  -14541 end:  0
+index:  544  clause:  -426 -15752 14345 14344  support:  543 385  pivot:  14346 end:  0
+index:  545  clause:  14343 -426 -15752 14344  support:  544 381  pivot:  14345 end:  0
+index:  546  clause:  -14541 -15752 14345 14542  support:  399 389  pivot:  434 end:  0
+index:  547  clause:  -15752 14345 14346 14542  support:  546 388  pivot:  -14541 end:  0
+index:  548  clause:  426 12498 -15752 14345 14542  support:  547 383  pivot:  14346 end:  0
+index:  549  clause:  13904 12498 -15752 426 14542  support:  548 379  pivot:  14345 end:  0
+index:  550  clause:  14343 14344 14542 13904 12498 -15752  support:  549 545  pivot:  426 end:  0
+index:  551  clause:  13904 12498 14343 14344 15787 14542  support:  550 404  pivot:  -15752 end:  0
+index:  552  clause:  14343 14344 -470 15788 14542 13904 12498  support:  551 405  pivot:  15787 end:  0
+index:  553  clause:  14343 14344 15788 14542 13904 -15792 12498  support:  552 413  pivot:  -470 end:  0
+index:  554  clause:  14343 14344 15788 14542 -15921 13904 12498  support:  553 415  pivot:  -15792 end:  0
+index:  555  clause:  14343 14344 15788 14542 13904 12498 -529 -17639  support:  554 457  pivot:  -15921 end:  0
+index:  556  clause:  14343 14344 15788 14542 13904 12498 -530 -17639  support:  555 26  pivot:  -529 end:  0
+index:  557  clause:  14343 14344 15788 28109 14542 13904 12498 -17639  support:  556 465  pivot:  -530 end:  0
+index:  558  clause:  -28095 14343 14344 74 15788 14542 -28103 13904 12498 -28107 -28105 -17639 -28101 -28099 -28097  support:  557 466  pivot:  28109 end:  0
+index:  559  clause:  -28095 14343 14344 74 15788 473 14542 13904 12498 -17639 -28105 -28103 -28101 -28099 -28097  support:  558 464  pivot:  -28107 end:  0
+index:  560  clause:  -28095 14343 14344 74 15788 14542 -28103 13904 12498 -17639 -28105 472 -28101 -28099 -28097  support:  559 23  pivot:  473 end:  0
+index:  561  clause:  -28095 14343 14344 74 15788 14542 13904 -15791 12498 14073 -17639 -28105 -28103 -28101 -28099 -28097  support:  560 412  pivot:  472 end:  0
+index:  562  clause:  -28095 14343 14344 74 14542 13904 -15791 12498 -17639 -28103 -28105 14073 -28101 -28099 -28097  support:  561 406  pivot:  15788 end:  0
+index:  563  clause:  -28095 14343 14344 74 -28103 13904 -15791 12498 14073 -28105 -17639 -28101 -28099 -28097  support:  562 391  pivot:  14542 end:  0
+index:  564  clause:  -28095 14343 74 13904 -15791 12498 14073 -17639 -28105 -28103 -28101 -28099 -28097  support:  563 376  pivot:  14344 end:  0
+index:  565  clause:  -28095 14343 74 -28103 13904 -15791 12498 -17639 -28105 13944 -28101 -28099 -28097  support:  564 366  pivot:  14073 end:  0
+index:  566  clause:  -28095 14343 74 13904 -15791 12498 -17639 -28105 -28103 -28101 -28099 413 -28097  support:  565 365  pivot:  13944 end:  0
+index:  567  clause:  -28095 14343 74 -13939 -28103 13904 -15791 12498 13940 -28105 -17639 -28101 -28099 -28097  support:  566 357  pivot:  413 end:  0
+index:  568  clause:  -28095 14343 74 -13939 13904 -15791 12498 -17639 -28105 -28103 -28101 -28099 -28097  support:  567 358  pivot:  13940 end:  0
+index:  569  clause:  -28095 14343 74 -28103 13904 -15791 12498 -28105 -17639 -28101 -28099 -28097  support:  568 356  pivot:  -13939 end:  0
+index:  570  clause:  -28095 74 13904 -15791 12498 -17639 -28105 -28103 -28101 -28099 -28097  support:  569 540  pivot:  14343 end:  0
+index:  571  clause:  -28095 74 -28103 13904 -15791 12498 -28105 -28101 -28099 -28097  support:  570 538  pivot:  -17639 end:  0
+index:  572  clause:  -28095 74 13904 12498 -28105 -28103 -28101 -28099 -28097  support:  571 534  pivot:  -15791 end:  0
+index:  573  clause:  -12495 12056 12494  support:  326 325  pivot:  -370 end:  0
+index:  574  clause:  12056 -12495  support:  573 494  pivot:  12494 end:  0
+index:  575  clause:  12496 10650 -12498  support:  337 335  pivot:  -369 end:  0
+index:  576  clause:  10650 -12498  support:  575 328  pivot:  12496 end:  0
+index:  577  clause:  10208 10646 -10647  support:  278 277  pivot:  -313 end:  0
+index:  578  clause:  10208 -10647  support:  577 490  pivot:  10646 end:  0
+index:  579  clause:  10647 10208 -10649  support:  285 283  pivot:  -312 end:  0
+index:  580  clause:  10208 -10649  support:  579 578  pivot:  10647 end:  0
+index:  581  clause:  -12497 12056 12495  support:  333 331  pivot:  -369 end:  0
+index:  582  clause:  -12497 12056  support:  581 574  pivot:  12495 end:  0
+index:  583  clause:  8802 10648 -10650  support:  289 287  pivot:  -312 end:  0
+index:  584  clause:  8802 -10650  support:  583 280  pivot:  10648 end:  0
+index:  585  clause:  416 -28095 74 13904 12498 -28103 -28101 -28099 -28097  support:  463 572  pivot:  28105 end:  0
+index:  586  clause:  416 -28095 359 74 13904 12498 -28101 -28099 -28097  support:  585 462  pivot:  -28103 end:  0
+index:  587  clause:  -28095 359 74 13904 12498 -28101 -28099 413 -28097  support:  586 19  pivot:  416 end:  0
+index:  588  clause:  -28095 359 74 -13939 13904 12498 13940 -28101 -28099 -28097  support:  587 357  pivot:  413 end:  0
+index:  589  clause:  -28095 359 74 -13939 13904 12498 -28101 -28099 -28097  support:  588 358  pivot:  13940 end:  0
+index:  590  clause:  -28095 359 74 13904 12498 -28101 -28099 -28097  support:  589 356  pivot:  -13939 end:  0
+index:  591  clause:  -28095 359 74 12498 12497 377 -28101 -28099 -28097  support:  590 351  pivot:  13904 end:  0
+index:  592  clause:  -28095 359 74 -12693 12497 12498 12694 -28101 -28099 -28097  support:  591 341  pivot:  377 end:  0
+index:  593  clause:  -28095 359 74 -12693 12497 12498 -28101 -28099 -28097  support:  592 343  pivot:  12694 end:  0
+index:  594  clause:  -28095 359 74 12497 12498 -28101 -28099 -28097  support:  593 340  pivot:  -12693 end:  0
+index:  595  clause:  -28095 356 74 12497 12498 -28101 -28099 -28097  support:  594 16  pivot:  359 end:  0
+index:  596  clause:  -28095 -12091 12092 74 12497 12498 -28101 -28099 -28097  support:  595 309  pivot:  356 end:  0
+index:  597  clause:  -28095 -12091 74 12497 12498 -28101 -28099 -28097  support:  596 310  pivot:  12092 end:  0
+index:  598  clause:  -28095 74 12497 12498 12056 -28101 -28099 -28097  support:  597 308  pivot:  -12091 end:  0
+index:  599  clause:  -28095 74 12498 12056 -28101 -28099 -28097  support:  598 582  pivot:  12497 end:  0
+index:  600  clause:  -8799 8360 8798  support:  230 229  pivot:  -256 end:  0
+index:  601  clause:  8360 -8799  support:  600 486  pivot:  8798 end:  0
+index:  602  clause:  8360 8799 -8801  support:  237 235  pivot:  -255 end:  0
+index:  603  clause:  8360 -8801  support:  602 601  pivot:  8799 end:  0
+index:  604  clause:  8800 6954 -8802  support:  241 239  pivot:  -255 end:  0
+index:  605  clause:  6954 -8802  support:  604 232  pivot:  8800 end:  0
+index:  606  clause:  6512 -6951 6950  support:  182 181  pivot:  -199 end:  0
+index:  607  clause:  6512 -6951  support:  606 482  pivot:  6950 end:  0
+index:  608  clause:  6512 -6953 6951  support:  189 187  pivot:  -198 end:  0
+index:  609  clause:  6512 -6953  support:  608 607  pivot:  6951 end:  0
+index:  610  clause:  5106 -6954 6952  support:  193 191  pivot:  -198 end:  0
+index:  611  clause:  5106 -6954  support:  610 184  pivot:  6952 end:  0
+index:  612  clause:  -5103 4664 5102  support:  135 134  pivot:  -142 end:  0
+index:  613  clause:  4664 -5103  support:  612 478  pivot:  5102 end:  0
+index:  614  clause:  4664 -5105 5103  support:  141 139  pivot:  -141 end:  0
+index:  615  clause:  4664 -5105  support:  614 613  pivot:  5103 end:  0
+index:  616  clause:  2816 3254 -3255  support:  89 88  pivot:  -85 end:  0
+index:  617  clause:  2816 -3255  support:  616 474  pivot:  3254 end:  0
+index:  618  clause:  2816 3255 -3257  support:  95 93  pivot:  -84 end:  0
+index:  619  clause:  2816 -3257  support:  618 617  pivot:  3255 end:  0
+index:  620  clause:  1494 -1495 1147  support:  42 41  pivot:  -28 end:  0
+index:  621  clause:  -1495 1147  support:  620 470  pivot:  1494 end:  0
+index:  622  clause:  -1497 1495 1147  support:  48 46  pivot:  -27 end:  0
+index:  623  clause:  -1497 1147  support:  622 621  pivot:  1495 end:  0
+index:  624  clause:  -3453 -4664 3257 3454  support:  112 102  pivot:  92 end:  0
+index:  625  clause:  -3453 -4664 3257  support:  624 104  pivot:  3454 end:  0
+index:  626  clause:  -4664 3257 3258  support:  625 101  pivot:  -3453 end:  0
+index:  627  clause:  2816 -4664 3258  support:  626 619  pivot:  3257 end:  0
+index:  628  clause:  35 -4664 1497 3258  support:  627 65  pivot:  2816 end:  0
+index:  629  clause:  1606 -4664 1497 3258 -1605  support:  628 55  pivot:  35 end:  0
+index:  630  clause:  1498 1606 -4664 1497 3258  support:  629 54  pivot:  -1605 end:  0
+index:  631  clause:  84 1606 -4664 1497 3258  support:  630 96  pivot:  1498 end:  0
+index:  632  clause:  84 -4664 1497 3258  support:  631 57  pivot:  1606 end:  0
+index:  633  clause:  5106 -141 -3258 142  support:  143 137  pivot:  -5104 end:  0
+index:  634  clause:  -5103 5106 -141 -3258 5102  support:  633 135  pivot:  142 end:  0
+index:  635  clause:  5106 -141 -3258 -5105 5102  support:  634 141  pivot:  -5103 end:  0
+index:  636  clause:  5106 -3258 5102 -5105  support:  635 142  pivot:  -141 end:  0
+index:  637  clause:  5106 -3258 -5105  support:  636 478  pivot:  5102 end:  0
+index:  638  clause:  3254 -85 -84 -3257  support:  95 89  pivot:  3255 end:  0
+index:  639  clause:  3254 -3257 3256 -1498 -84  support:  638 91  pivot:  -85 end:  0
+index:  640  clause:  1605 3254 -3257 3256 -84  support:  639 54  pivot:  -1498 end:  0
+index:  641  clause:  3254 -3257 3256 1606 -84 -35  support:  640 55  pivot:  1605 end:  0
+index:  642  clause:  -2816 1606 -3257 -84 3254 3256 1497  support:  641 65  pivot:  -35 end:  0
+index:  643  clause:  1606 -3257 -84 3254 3256 1497  support:  642 619  pivot:  -2816 end:  0
+index:  644  clause:  1606 -4664 -84 3254 3256 1497 92  support:  643 112  pivot:  -3257 end:  0
+index:  645  clause:  -3453 1606 -4664 -84 3254 3256 1497 3454  support:  644 102  pivot:  92 end:  0
+index:  646  clause:  -3453 1606 -4664 -84 3254 3256 1497  support:  645 104  pivot:  3454 end:  0
+index:  647  clause:  1606 -4664 -84 3254 3256 1497 3258  support:  646 101  pivot:  -3453 end:  0
+index:  648  clause:  1606 -4664 -84 3254 1497 3258  support:  647 97  pivot:  3256 end:  0
+index:  649  clause:  3254 -4664 1497 3258 -84  support:  648 57  pivot:  1606 end:  0
+index:  650  clause:  -4664 3254 1497 3258  support:  649 632  pivot:  -84 end:  0
+index:  651  clause:  5106 3254 -4664 1497 -5105  support:  650 637  pivot:  3258 end:  0
+index:  652  clause:  5106 3254 1497 -5105  support:  651 615  pivot:  -4664 end:  0
+index:  653  clause:  5106 1497 -5105  support:  652 474  pivot:  3254 end:  0
+index:  654  clause:  -3453 -4664 3257 3454  support:  112 102  pivot:  92 end:  0
+index:  655  clause:  -3453 -4664 3257  support:  654 104  pivot:  3454 end:  0
+index:  656  clause:  -4664 3257 3258  support:  655 101  pivot:  -3453 end:  0
+index:  657  clause:  3255 -4664 3258 -84  support:  656 95  pivot:  3257 end:  0
+index:  658  clause:  3254 -4664 3258 -85 -84  support:  657 89  pivot:  3255 end:  0
+index:  659  clause:  3254 -1498 -4664 3258 -84 3256  support:  658 91  pivot:  -85 end:  0
+index:  660  clause:  -1498 -4664 -84 3254 3258  support:  659 97  pivot:  3256 end:  0
+index:  661  clause:  -1498 3254 -4664 3258  support:  660 96  pivot:  -84 end:  0
+index:  662  clause:  -1498 -4664 3258  support:  661 474  pivot:  3254 end:  0
+index:  663  clause:  -3258 -85 -84  support:  98 90  pivot:  3256 end:  0
+index:  664  clause:  -2816 -3258 3255 -84  support:  663 87  pivot:  -85 end:  0
+index:  665  clause:  -2816 3257 -3258 -84  support:  664 94  pivot:  3255 end:  0
+index:  666  clause:  -2816 -3258 3257  support:  665 92  pivot:  -84 end:  0
+index:  667  clause:  -2816 -3291 -3258  support:  666 99  pivot:  3257 end:  0
+index:  668  clause:  -2816 -3258 93 3455  support:  667 105  pivot:  -3291 end:  0
+index:  669  clause:  -2816 -3258 -4535 3885 3455  support:  668 111  pivot:  93 end:  0
+index:  670  clause:  -2816 -92 -3258 -4664 3885 3455  support:  669 113  pivot:  -4535 end:  0
+index:  671  clause:  -2816 -3258 -4664 3885 3453 3454 3455  support:  670 103  pivot:  -92 end:  0
+index:  672  clause:  -2816 -3258 -4664 3885 3454 3455  support:  671 100  pivot:  3453 end:  0
+index:  673  clause:  -2816 -1498 -4664 3885 3454 3455  support:  672 662  pivot:  -3258 end:  0
+index:  674  clause:  -2816 1605 -4664 3885 3454 3455  support:  673 54  pivot:  -1498 end:  0
+index:  675  clause:  -2816 1606 -4664 3885 -35 3454 3455  support:  674 55  pivot:  1605 end:  0
+index:  676  clause:  -2816 1606 -4664 3885 1497 3454 3455  support:  675 65  pivot:  -35 end:  0
+index:  677  clause:  2851 1606 -4664 3885 1497 3454 3455  support:  676 70  pivot:  -2816 end:  0
+index:  678  clause:  2852 1606 -4664 3885 1497 -71 3454 3455  support:  677 71  pivot:  2851 end:  0
+index:  679  clause:  2852 1606 -4664 3885 -2856 1497 3454 3455  support:  678 79  pivot:  -71 end:  0
+index:  680  clause:  2852 1606 -4664 3885 -2953 1497 3454 3455  support:  679 81  pivot:  -2856 end:  0
+index:  681  clause:  -4703 2852 1606 -4664 3885 -130 1497 3454 3455  support:  680 125  pivot:  -2953 end:  0
+index:  682  clause:  -4703 3454 2852 1606 3885 1497 4699 -130 3455  support:  681 117  pivot:  -4664 end:  0
+index:  683  clause:  -128 -4703 2852 1606 3885 -130 1497 4700 3454 3455  support:  682 118  pivot:  4699 end:  0
+index:  684  clause:  -128 -4703 3454 2852 1606 3885 1497 -130 3455  support:  683 119  pivot:  4700 end:  0
+index:  685  clause:  -128 -4703 -95 2852 1606 -130 1497 3454 3455  support:  684 110  pivot:  3885 end:  0
+index:  686  clause:  -128 -4703 3454 2852 3456 1606 3457 1497 -130 3455  support:  685 108  pivot:  -95 end:  0
+index:  687  clause:  -128 -4703 3457 2852 1606 -3183 -130 1497 3454 3455  support:  686 107  pivot:  3456 end:  0
+index:  688  clause:  -128 -4703 3457 3454 2852 1606 4697 1497 -130 3455  support:  687 114  pivot:  -3183 end:  0
+index:  689  clause:  -128 -4703 3457 -127 2852 1606 1497 -130 4698 3454 3455  support:  688 115  pivot:  4697 end:  0
+index:  690  clause:  -128 -4703 3457 -127 2852 3454 1606 1497 -130 3455  support:  689 116  pivot:  4698 end:  0
+index:  691  clause:  -128 -4703 -127 2852 1606 -130 1497 3454 3455  support:  690 109  pivot:  3457 end:  0
+index:  692  clause:  -128 -4703 -127 3454 2852 1606 1497 -130  support:  691 106  pivot:  3455 end:  0
+index:  693  clause:  -128 -4703 -127 2852 1606 -130 1497  support:  692 104  pivot:  3454 end:  0
+index:  694  clause:  -128 -4703 -127 1606 1497 -130  support:  693 72  pivot:  2852 end:  0
+index:  695  clause:  -128 -4703 -127 1497 -130  support:  694 57  pivot:  1606 end:  0
+index:  696  clause:  -128 -4703 -127 1497 -131  support:  695 5  pivot:  -130 end:  0
+index:  697  clause:  -4703 -127 1497 -131  support:  696 4  pivot:  -128 end:  0
+index:  698  clause:  -4703 1497 -131  support:  697 3  pivot:  -127 end:  0
+index:  699  clause:  1497 -131  support:  698 510  pivot:  -4703 end:  0
+index:  700  clause:  -28095 74 302 12498 12056 -28099 -28097  support:  461 599  pivot:  28101 end:  0
+index:  701  clause:  -28095 74 302 12498 245 12056 -28097  support:  700 460  pivot:  -28099 end:  0
+index:  702  clause:  -28095 74 302 12498 245 12056 188  support:  701 459  pivot:  -28097 end:  0
+index:  703  clause:  320 -28095 74 302 12498 245 10649 188  support:  702 303  pivot:  12056 end:  0
+index:  704  clause:  -28095 -10845 74 302 12498 245 10649 188 10846  support:  703 293  pivot:  320 end:  0
+index:  705  clause:  -28095 -10845 74 302 12498 245 10649 188  support:  704 295  pivot:  10846 end:  0
+index:  706  clause:  -28095 74 302 12498 245 10649 10650 188  support:  705 292  pivot:  -10845 end:  0
+index:  707  clause:  -28095 74 299 12498 245 10649 10650 188  support:  706 13  pivot:  302 end:  0
+index:  708  clause:  -28095 10244 74 12498 245 10649 10650 188 -10243  support:  707 261  pivot:  299 end:  0
+index:  709  clause:  -28095 74 12498 245 10649 10650 188 -10243  support:  708 262  pivot:  10244 end:  0
+index:  710  clause:  10208 -28095 74 12498 245 10649 10650 188  support:  709 260  pivot:  -10243 end:  0
+index:  711  clause:  10208 -28095 74 12498 245 10650 188  support:  710 580  pivot:  10649 end:  0
+index:  712  clause:  -28095 8801 263 74 12498 245 10650 188  support:  711 255  pivot:  10208 end:  0
+index:  713  clause:  -28095 8801 8998 74 12498 245 10650 -8997 188  support:  712 245  pivot:  263 end:  0
+index:  714  clause:  -28095 8801 74 12498 245 10650 -8997 188  support:  713 247  pivot:  8998 end:  0
+index:  715  clause:  -28095 8801 8802 74 12498 245 10650 188  support:  714 244  pivot:  -8997 end:  0
+index:  716  clause:  -28095 8801 8802 74 12498 242 10650 188  support:  715 10  pivot:  245 end:  0
+index:  717  clause:  -28095 8801 8802 74 8396 12498 -8395 10650 188  support:  716 213  pivot:  242 end:  0
+index:  718  clause:  -28095 8801 8802 74 12498 -8395 10650 188  support:  717 214  pivot:  8396 end:  0
+index:  719  clause:  -28095 8801 8802 8360 74 12498 10650 188  support:  718 212  pivot:  -8395 end:  0
+index:  720  clause:  -28095 8802 8360 74 12498 10650 188  support:  719 603  pivot:  8801 end:  0
+index:  721  clause:  -28095 8802 6953 74 206 12498 10650 188  support:  720 207  pivot:  8360 end:  0
+index:  722  clause:  -28095 8802 6953 74 7150 12498 -7149 10650 188  support:  721 197  pivot:  206 end:  0
+index:  723  clause:  -28095 8802 6953 74 12498 -7149 10650 188  support:  722 199  pivot:  7150 end:  0
+index:  724  clause:  -28095 8802 6953 74 6954 12498 10650 188  support:  723 196  pivot:  -7149 end:  0
+index:  725  clause:  -28095 8802 6953 74 6954 12498 185 10650  support:  724 7  pivot:  188 end:  0
+index:  726  clause:  -28095 8802 6953 74 6954 -6547 12498 6548 10650  support:  725 164  pivot:  185 end:  0
+index:  727  clause:  -28095 8802 6953 74 6954 -6547 12498 10650  support:  726 165  pivot:  6548 end:  0
+index:  728  clause:  -28095 8802 6953 74 6954 6512 12498 10650  support:  727 163  pivot:  -6547 end:  0
+index:  729  clause:  -28095 8802 74 6954 6512 12498 10650  support:  728 609  pivot:  6953 end:  0
+index:  730  clause:  -28095 8802 74 6954 12498 5105 149 10650  support:  729 158  pivot:  6512 end:  0
+index:  731  clause:  -28095 8802 74 6954 -5301 5105 12498 5302 10650  support:  730 148  pivot:  149 end:  0
+index:  732  clause:  -28095 8802 74 6954 -5301 5105 12498 10650  support:  731 150  pivot:  5302 end:  0
+index:  733  clause:  -28095 8802 74 6954 5105 12498 5106 10650  support:  732 147  pivot:  -5301 end:  0
+index:  734  clause:  -28095 8802 -3258 74 6954 12498 5106 10650  support:  733 637  pivot:  5105 end:  0
+index:  735  clause:  -28095 8802 -3258 74 6954 5106 10650  support:  734 576  pivot:  12498 end:  0
+index:  736  clause:  -28095 8802 -3258 74 6954 5106  support:  735 584  pivot:  10650 end:  0
+index:  737  clause:  -28095 5106 -3258 74 6954  support:  736 605  pivot:  8802 end:  0
+index:  738  clause:  -28095 5106 -3258 74  support:  737 611  pivot:  6954 end:  0
+index:  739  clause:  -142 -141 -5106  support:  144 136  pivot:  5104 end:  0
+index:  740  clause:  -141 -4664 -5106 5103  support:  739 133  pivot:  -142 end:  0
+index:  741  clause:  5105 -141 -4664 -5106  support:  740 140  pivot:  5103 end:  0
+index:  742  clause:  5105 -4664 -5106  support:  741 138  pivot:  -141 end:  0
+index:  743  clause:  -6547 -185  support:  165 164  pivot:  -6548 end:  0
+index:  744  clause:  6512 -185  support:  743 163  pivot:  -6547 end:  0
+index:  745  clause:  -185 -149 6383  support:  744 159  pivot:  6512 end:  0
+index:  746  clause:  5733 -185 -150 -149  support:  745 157  pivot:  6383 end:  0
+index:  747  clause:  -185 -152 -150 -149  support:  746 156  pivot:  5733 end:  0
+index:  748  clause:  -185 5305 -150 -149 5304  support:  747 154  pivot:  -152 end:  0
+index:  749  clause:  -5031 -185 5305 -150 -149  support:  748 153  pivot:  5304 end:  0
+index:  750  clause:  6545 5305 -185 -150 -149  support:  749 160  pivot:  -5031 end:  0
+index:  751  clause:  6546 -185 -184 5305 -150 -149  support:  750 161  pivot:  6545 end:  0
+index:  752  clause:  -185 -184 5305 -150 -149  support:  751 162  pivot:  6546 end:  0
+index:  753  clause:  -185 -184 -150 -149  support:  752 155  pivot:  5305 end:  0
+index:  754  clause:  -188 -184 -150 -149  support:  753 7  pivot:  -185 end:  0
+index:  755  clause:  -188 -150 -149  support:  754 6  pivot:  -184 end:  0
+index:  756  clause:  301 28101  support:  461 14  pivot:  302 end:  0
+index:  757  clause:  8529 28101 -10247  support:  756 268  pivot:  301 end:  0
+index:  758  clause:  8400 28101 -10247  support:  757 222  pivot:  8529 end:  0
+index:  759  clause:  242 28101 -10247  support:  758 221  pivot:  8400 end:  0
+index:  760  clause:  28101 -8395 -10247 8396  support:  759 213  pivot:  242 end:  0
+index:  761  clause:  -8395 28101 -10247  support:  760 214  pivot:  8396 end:  0
+index:  762  clause:  28101 8360 -10247  support:  761 212  pivot:  -8395 end:  0
+index:  763  clause:  28101 6953 -10247 206  support:  762 207  pivot:  8360 end:  0
+index:  764  clause:  -7149 28101 7150 6953 -10247  support:  763 197  pivot:  206 end:  0
+index:  765  clause:  -7149 28101 6953 -10247  support:  764 199  pivot:  7150 end:  0
+index:  766  clause:  28101 6953 6954 -10247  support:  765 196  pivot:  -7149 end:  0
+index:  767  clause:  28101 6951 6954 -198 -10247  support:  766 189  pivot:  6953 end:  0
+index:  768  clause:  -199 28101 6950 -10247 6954 -198  support:  767 182  pivot:  6951 end:  0
+index:  769  clause:  28101 6950 6952 6954 -5106 -198 -10247  support:  768 185  pivot:  -199 end:  0
+index:  770  clause:  28101 6950 6954 -5106 -10247 -198  support:  769 192  pivot:  6952 end:  0
+index:  771  clause:  28101 6950 6954 -5106 -10247  support:  770 190  pivot:  -198 end:  0
+index:  772  clause:  -28095 6950 6954 74 -5106 12498 12056 -10247 -28099 -28097  support:  771 599  pivot:  28101 end:  0
+index:  773  clause:  -28095 6950 6954 74 -5106 12056 -10247 10650 -28099 -28097  support:  772 576  pivot:  12498 end:  0
+index:  774  clause:  -28095 8802 6950 6954 74 -5106 12056 -10247 -28099 -28097  support:  773 584  pivot:  10650 end:  0
+index:  775  clause:  -28095 6950 6954 74 -5106 12056 -10247 -28099 -28097  support:  774 605  pivot:  8802 end:  0
+index:  776  clause:  -28095 6950 6954 74 -5106 12056 -28099 -28097  support:  775 522  pivot:  -10247 end:  0
+index:  777  clause:  -28095 6954 74 -5106 12056 -28099 -28097  support:  776 482  pivot:  6950 end:  0
+index:  778  clause:  299 28101  support:  461 13  pivot:  302 end:  0
+index:  779  clause:  10244 28101 -10243  support:  778 261  pivot:  299 end:  0
+index:  780  clause:  -10243 28101  support:  779 262  pivot:  10244 end:  0
+index:  781  clause:  28101 10208  support:  780 260  pivot:  -10243 end:  0
+index:  782  clause:  8801 28101 263  support:  781 255  pivot:  10208 end:  0
+index:  783  clause:  8801 28101 8998 -8997  support:  782 245  pivot:  263 end:  0
+index:  784  clause:  8801 28101 -8997  support:  783 247  pivot:  8998 end:  0
+index:  785  clause:  8801 8802 28101  support:  784 244  pivot:  -8997 end:  0
+index:  786  clause:  8802 -255 28101 8799  support:  785 237  pivot:  8801 end:  0
+index:  787  clause:  -256 -255 8802 28101 8798  support:  786 230  pivot:  8799 end:  0
+index:  788  clause:  -255 8802 8800 28101 -6954 8798  support:  787 233  pivot:  -256 end:  0
+index:  789  clause:  -255 8802 28101 -6954 8798  support:  788 240  pivot:  8800 end:  0
+index:  790  clause:  8802 28101 -6954 8798  support:  789 238  pivot:  -255 end:  0
+index:  791  clause:  -28095 8802 74 12498 -6954 12056 -28099 8798 -28097  support:  790 599  pivot:  28101 end:  0
+index:  792  clause:  -28095 8802 74 -6954 12056 10650 -28099 8798 -28097  support:  791 576  pivot:  12498 end:  0
+index:  793  clause:  -28095 8802 74 -6954 12056 -28099 8798 -28097  support:  792 584  pivot:  10650 end:  0
+index:  794  clause:  -28095 8802 74 -6954 12056 -28099 -28097  support:  793 486  pivot:  8798 end:  0
+index:  795  clause:  -255 -256 -8802  support:  241 231  pivot:  8800 end:  0
+index:  796  clause:  -255 -8360 -8802 8799  support:  795 228  pivot:  -256 end:  0
+index:  797  clause:  -255 8801 -8360 -8802  support:  796 236  pivot:  8799 end:  0
+index:  798  clause:  8801 -8360 -8802  support:  797 234  pivot:  -255 end:  0
+index:  799  clause:  8801 8395 -8802  support:  798 212  pivot:  -8360 end:  0
+index:  800  clause:  8801 8396 -8802 -242  support:  799 213  pivot:  8395 end:  0
+index:  801  clause:  -8400 8801 8396 -8802  support:  800 221  pivot:  -242 end:  0
+index:  802  clause:  8801 8396 -8802 -8529  support:  801 222  pivot:  -8400 end:  0
+index:  803  clause:  8801 -301 -10247 8396 -8802  support:  802 268  pivot:  -8529 end:  0
+index:  804  clause:  -301 -10247 8396 -8835 -8802  support:  803 242  pivot:  8801 end:  0
+index:  805  clause:  -301 8999 264 -10247 8396 -8802  support:  804 248  pivot:  -8835 end:  0
+index:  806  clause:  -10079 8999 8396 -301 9429 -10247 -8802  support:  805 254  pivot:  264 end:  0
+index:  807  clause:  -10208 8999 8396 -301 9429 -263 -10247 -8802  support:  806 256  pivot:  -10079 end:  0
+index:  808  clause:  10243 8999 8396 -301 9429 -263 -10247 -8802  support:  807 260  pivot:  -10208 end:  0
+index:  809  clause:  10244 8999 8396 -301 9429 -299 -263 -10247 -8802  support:  808 261  pivot:  10243 end:  0
+index:  810  clause:  8999 8396 -301 9429 -299 -263 -10247 -8802  support:  809 262  pivot:  10244 end:  0
+index:  811  clause:  8999 8396 -301 -299 -266 -263 -10247 -8802  support:  810 253  pivot:  9429 end:  0
+index:  812  clause:  8999 9000 9001 8396 -301 -299 -263 -10247 -8802  support:  811 251  pivot:  -266 end:  0
+index:  813  clause:  8999 9001 -8727 8396 -301 -299 -263 -10247 -8802  support:  812 250  pivot:  9000 end:  0
+index:  814  clause:  10241 8999 9001 8396 -301 -299 -263 -10247 -8802  support:  813 257  pivot:  -8727 end:  0
+index:  815  clause:  10242 8999 9001 8396 -301 -299 -298 -263 -10247 -8802  support:  814 258  pivot:  10241 end:  0
+index:  816  clause:  8999 9001 8396 -301 -299 -298 -263 -10247 -8802  support:  815 259  pivot:  10242 end:  0
+index:  817  clause:  8999 8396 -301 -299 -298 -263 -10247 -8802  support:  816 252  pivot:  9001 end:  0
+index:  818  clause:  8396 -301 -299 -298 -263 -10247 -8802  support:  817 249  pivot:  8999 end:  0
+index:  819  clause:  8997 8998 8396 -301 -299 -298 -10247 -8802  support:  818 246  pivot:  -263 end:  0
+index:  820  clause:  8997 8396 -301 -299 -298 -10247 -8802  support:  819 247  pivot:  8998 end:  0
+index:  821  clause:  8396 -301 -299 -298 -10247 -8802  support:  820 243  pivot:  8997 end:  0
+index:  822  clause:  -301 -299 -298 -10247 -8802  support:  821 214  pivot:  8396 end:  0
+index:  823  clause:  -302 -299 -298 -10247 -8802  support:  822 14  pivot:  -301 end:  0
+index:  824  clause:  -302 -298 -10247 -8802  support:  823 13  pivot:  -299 end:  0
+index:  825  clause:  -302 -10247 -8802  support:  824 12  pivot:  -298 end:  0
+index:  826  clause:  -302 -8802  support:  825 522  pivot:  -10247 end:  0
+index:  827  clause:  -6954 -199 -198  support:  193 183  pivot:  6952 end:  0
+index:  828  clause:  -6512 -6954 -198 6951  support:  827 180  pivot:  -199 end:  0
+index:  829  clause:  -6512 6953 -6954 -198  support:  828 188  pivot:  6951 end:  0
+index:  830  clause:  -6512 -6954 6953  support:  829 186  pivot:  -198 end:  0
+index:  831  clause:  -10650 -313 -312  support:  289 279  pivot:  10648 end:  0
+index:  832  clause:  -10208 10647 -10650 -312  support:  831 276  pivot:  -313 end:  0
+index:  833  clause:  -10208 -10650 -312 10649  support:  832 284  pivot:  10647 end:  0
+index:  834  clause:  -10208 -10650 10649  support:  833 282  pivot:  -312 end:  0
+index:  835  clause:  -17600 16193 16390 -16389  support:  444 434  pivot:  491 end:  0
+index:  836  clause:  -17600 16193 -16389  support:  835 436  pivot:  16390 end:  0
+index:  837  clause:  -17600 16193 16194  support:  836 433  pivot:  -16389 end:  0
+index:  838  clause:  -17600 16193 16192 -483  support:  837 430  pivot:  16194 end:  0
+index:  839  clause:  -17600 16192 -483 16191  support:  838 427  pivot:  16193 end:  0
+index:  840  clause:  -17600 -484 -483 16191  support:  839 423  pivot:  16192 end:  0
+index:  841  clause:  -17600 -484 -483 16190  support:  840 422  pivot:  16191 end:  0
+index:  842  clause:  -17600 -484 -483  support:  841 502  pivot:  16190 end:  0
+index:  843  clause:  -17600 -492 -491 16821  support:  445 443  pivot:  17471 end:  0
+index:  844  clause:  -17600 16227 -491 16821 16391  support:  843 437  pivot:  -492 end:  0
+index:  845  clause:  -17600 16227 -491 16821  support:  844 438  pivot:  16391 end:  0
+index:  846  clause:  -17600 16227 16821 16389 16390  support:  845 435  pivot:  -491 end:  0
+index:  847  clause:  -17600 16227 16821 16389  support:  846 436  pivot:  16390 end:  0
+index:  848  clause:  -17600 16227 16821 -16194  support:  847 432  pivot:  16389 end:  0
+index:  849  clause:  -17600 16821 -16194 -16193  support:  848 431  pivot:  16227 end:  0
+index:  850  clause:  -17600 -16192 16821 -483 -16193  support:  849 429  pivot:  -16194 end:  0
+index:  851  clause:  -17600 -16192 -16191 16821 -483  support:  850 426  pivot:  -16193 end:  0
+index:  852  clause:  -17600 -16191 484 16821 -14346 -483  support:  851 424  pivot:  -16192 end:  0
+index:  853  clause:  -17600 484 16821 -14346 -15752 -483  support:  852 421  pivot:  -16191 end:  0
+index:  854  clause:  -17600 16821 -14346 -15752 -483  support:  853 842  pivot:  484 end:  0
+index:  855  clause:  -17600 -492 -491 16821  support:  445 443  pivot:  17471 end:  0
+index:  856  clause:  -17600 16227 -491 16821 16391  support:  855 437  pivot:  -492 end:  0
+index:  857  clause:  -17600 16227 -491 16821  support:  856 438  pivot:  16391 end:  0
+index:  858  clause:  -17600 16227 16821 16389 16390  support:  857 435  pivot:  -491 end:  0
+index:  859  clause:  -17600 16227 16821 16389  support:  858 436  pivot:  16390 end:  0
+index:  860  clause:  -17600 16227 16821 -16194  support:  859 432  pivot:  16389 end:  0
+index:  861  clause:  -17600 16821 -16194 -16193  support:  860 431  pivot:  16227 end:  0
+index:  862  clause:  -17600 483 16821 -14346 -16193  support:  861 428  pivot:  -16194 end:  0
+index:  863  clause:  -17600 483 16821 -14346 -15752  support:  862 425  pivot:  -16193 end:  0
+index:  864  clause:  -17600 16821 -14346 -15752  support:  863 854  pivot:  483 end:  0
+index:  865  clause:  -426 14343 14346 -15752  support:  384 545  pivot:  -14344 end:  0
+index:  866  clause:  14343 -15752 14346 -12498  support:  865 382  pivot:  -426 end:  0
+index:  867  clause:  -17600 14343 -12498 16821 -15752  support:  866 864  pivot:  14346 end:  0
+index:  868  clause:  -17600 16821 14343 15787 -12498  support:  867 404  pivot:  -15752 end:  0
+index:  869  clause:  -17600 16821 14343 -470 15788 -12498  support:  868 405  pivot:  15787 end:  0
+index:  870  clause:  -17600 -15792 16821 14343 15788 -12498  support:  869 413  pivot:  -470 end:  0
+index:  871  clause:  -17600 16821 14343 15788 -12498 -15921  support:  870 415  pivot:  -15792 end:  0
+index:  872  clause:  -17600 14343 15788 -12498 -529 16821 -17639  support:  871 457  pivot:  -15921 end:  0
+index:  873  clause:  17635 14343 15788 -12498 -529 16821 -17639  support:  872 449  pivot:  -17600 end:  0
+index:  874  clause:  17636 14343 15788 -12498 -529 -527 16821 -17639  support:  873 450  pivot:  17635 end:  0
+index:  875  clause:  17636 14343 15788 -12498 -529 -527 -494 -17639  support:  874 442  pivot:  16821 end:  0
+index:  876  clause:  17636 14343 16392 16393 15788 -12498 -529 -527 -17639  support:  875 440  pivot:  -494 end:  0
+index:  877  clause:  17636 14343 16393 -16119 15788 -12498 -529 -527 -17639  support:  876 439  pivot:  16392 end:  0
+index:  878  clause:  17633 17636 14343 16393 15788 -12498 -529 -527 -17639  support:  877 446  pivot:  -16119 end:  0
+index:  879  clause:  17634 17636 14343 16393 15788 -12498 -529 -527 -526 -17639  support:  878 447  pivot:  17633 end:  0
+index:  880  clause:  17634 17636 14343 16393 15788 -12498 -530 -527 -526 -17639  support:  879 26  pivot:  -529 end:  0
+index:  881  clause:  17634 17636 14343 16393 15788 -12498 -530 -526 -17639  support:  880 25  pivot:  -527 end:  0
+index:  882  clause:  17634 17636 14343 16393 15788 -12498 -530 -17639  support:  881 24  pivot:  -526 end:  0
+index:  883  clause:  17634 17636 14343 16393 15788 28109 -12498 -17639  support:  882 465  pivot:  -530 end:  0
+index:  884  clause:  -28095 17634 17636 14343 16393 74 15788 -12498 -28103 -28107 -28105 -17639 -28101 -28099 -28097  support:  883 466  pivot:  28109 end:  0
+index:  885  clause:  -28095 17634 17636 14343 16393 74 15788 473 -12498 -17639 -28105 -28103 -28101 -28099 -28097  support:  884 464  pivot:  -28107 end:  0
+index:  886  clause:  -28095 17634 14343 16393 74 15788 -12498 -28103 -17639 -28105 473 -28101 -28099 -28097  support:  885 451  pivot:  17636 end:  0
+index:  887  clause:  -28095 14343 16393 74 15788 473 -12498 -17639 -28105 -28103 -28101 -28099 -28097  support:  886 448  pivot:  17634 end:  0
+index:  888  clause:  -28095 14343 74 15788 -12498 -28103 -17639 -28105 473 -28101 -28099 -28097  support:  887 441  pivot:  16393 end:  0
+index:  889  clause:  -28095 14343 74 15788 -12498 -17639 -28105 472 -28103 -28101 -28099 -28097  support:  888 23  pivot:  473 end:  0
+index:  890  clause:  -28095 14343 74 15788 -12498 -28103 -15791 14073 -28105 -17639 -28101 -28099 -28097  support:  889 412  pivot:  472 end:  0
+index:  891  clause:  -28095 14343 74 -12498 -15791 14073 -17639 -28105 -28103 -28101 -28099 -28097  support:  890 406  pivot:  15788 end:  0
+index:  892  clause:  -28095 14343 74 -12498 -28103 -15791 -17639 -28105 13944 -28101 -28099 -28097  support:  891 366  pivot:  14073 end:  0
+index:  893  clause:  -28095 14343 74 -12498 -15791 -17639 -28105 -28103 -28101 -28099 413 -28097  support:  892 365  pivot:  13944 end:  0
+index:  894  clause:  -28095 14343 74 -13939 -12498 -28103 -15791 13940 -28105 -17639 -28101 -28099 -28097  support:  893 357  pivot:  413 end:  0
+index:  895  clause:  -28095 14343 74 -13939 -12498 -15791 -17639 -28105 -28103 -28101 -28099 -28097  support:  894 358  pivot:  13940 end:  0
+index:  896  clause:  -28095 14343 74 -12498 -28103 13904 -15791 -28105 -17639 -28101 -28099 -28097  support:  895 356  pivot:  -13939 end:  0
+index:  897  clause:  -28095 74 -12498 13904 -15791 -17639 -28105 -28103 -28101 -28099 -28097  support:  896 540  pivot:  14343 end:  0
+index:  898  clause:  -28095 74 -12498 -28103 13904 -15791 -28105 -28101 -28099 -28097  support:  897 538  pivot:  -17639 end:  0
+index:  899  clause:  -28095 74 -12498 13904 -28105 -28103 -28101 -28099 -28097  support:  898 534  pivot:  -15791 end:  0
+index:  900  clause:  -28095 74 530 -28107 -28105 -28103 -28101 -28099 -28097  support:  466 465  pivot:  -28109 end:  0
+index:  901  clause:  -28095 74 473 530 -28105 -28103 -28101 -28099 -28097  support:  900 464  pivot:  -28107 end:  0
+index:  902  clause:  -28095 74 -28103 529 -28105 473 -28101 -28099 -28097  support:  901 26  pivot:  530 end:  0
+index:  903  clause:  -28095 74 473 15921 -17639 -28105 -28103 -28101 -28099 -28097  support:  902 457  pivot:  529 end:  0
+index:  904  clause:  -28095 74 -28103 15792 -17639 -28105 473 -28101 -28099 -28097  support:  903 415  pivot:  15921 end:  0
+index:  905  clause:  -28095 74 473 -17639 -28105 470 -28103 -28101 -28099 -28097  support:  904 413  pivot:  15792 end:  0
+index:  906  clause:  -28095 74 -28103 -17639 -28105 470 -28101 -28099 -28097  support:  905 22  pivot:  473 end:  0
+index:  907  clause:  -28095 74 -28105 470 -28103 -28101 -28099 -28097  support:  906 538  pivot:  -17639 end:  0
+index:  908  clause:  14342 14344 -14343 -12498  support:  377 374  pivot:  427 end:  0
+index:  909  clause:  14342 14344 -12498 -426 -15752  support:  908 545  pivot:  -14343 end:  0
+index:  910  clause:  14346 14342 -426 -15752 -12498  support:  909 384  pivot:  14344 end:  0
+index:  911  clause:  14342 -15752 14346 -12498  support:  910 382  pivot:  -426 end:  0
+index:  912  clause:  -15752 14346 -12498  support:  911 498  pivot:  14342 end:  0
+index:  913  clause:  -427 -14346 -426  support:  385 375  pivot:  14344 end:  0
+index:  914  clause:  -13904 14343 -426 -14346  support:  913 372  pivot:  -427 end:  0
+index:  915  clause:  -13904 -14346 -426 14345  support:  914 380  pivot:  14343 end:  0
+index:  916  clause:  -13904 -14346 14345  support:  915 378  pivot:  -426 end:  0
+index:  917  clause:  -28095 74 530 -28107 -28105 -28103 -28101 -28099 -28097  support:  466 465  pivot:  -28109 end:  0
+index:  918  clause:  -28095 74 473 530 -28105 -28103 -28101 -28099 -28097  support:  917 464  pivot:  -28107 end:  0
+index:  919  clause:  -28095 74 -28103 529 -28105 473 -28101 -28099 -28097  support:  918 26  pivot:  530 end:  0
+index:  920  clause:  -28095 74 473 15921 -17639 -28105 -28103 -28101 -28099 -28097  support:  919 457  pivot:  529 end:  0
+index:  921  clause:  -28095 74 -28103 469 -17639 -28105 473 -28101 -28099 -28097  support:  920 414  pivot:  15921 end:  0
+index:  922  clause:  -28095 74 469 -17639 -28105 -28103 -28101 -28099 -28097  support:  921 21  pivot:  473 end:  0
+index:  923  clause:  -28095 -15785 74 15786 -28103 -28105 -17639 -28101 -28099 -28097  support:  922 402  pivot:  469 end:  0
+index:  924  clause:  -28095 -28105 74 15786 14271 -17639 -28103 -28101 -28099 -28097  support:  923 401  pivot:  -15785 end:  0
+index:  925  clause:  -28095 74 15786 -28097 -28103 -14544 -28105 -17639 -28101 -28099  support:  924 394  pivot:  14271 end:  0
+index:  926  clause:  -28095 74 15786 14545 437 -17639 -28105 -28103 -28101 -28099 -28097  support:  925 395  pivot:  -14544 end:  0
+index:  927  clause:  -28095 -14973 74 15786 -28103 14545 -28105 -17639 -28101 -28099 -28097  support:  926 397  pivot:  437 end:  0
+index:  928  clause:  -28095 74 15786 -435 14545 -15623 -17639 -28105 -28103 -28101 -28099 -28097  support:  927 398  pivot:  -14973 end:  0
+index:  929  clause:  -28095 74 15786 -435 -434 -28103 14545 -17639 -28105 -15752 -28101 -28099 -28097  support:  928 400  pivot:  -15623 end:  0
+index:  930  clause:  -28095 74 15786 14379 -434 14543 14545 -17639 -28105 -15752 -28103 -28101 -28099 -28097  support:  929 392  pivot:  -435 end:  0
+index:  931  clause:  -28095 74 15786 14379 14541 14543 -28103 14545 14542 -28105 -15752 -17639 -28101 -28099 -28097  support:  930 390  pivot:  -434 end:  0
+index:  932  clause:  -28095 74 15786 14379 14542 14543 14545 -17639 -28105 -15752 -28103 -14346 -28101 -28099 -28097  support:  931 387  pivot:  14541 end:  0
+index:  933  clause:  -28095 74 15786 14542 14543 -28103 14545 -14345 -14346 -28105 -15752 -17639 -28101 -28099 -28097  support:  932 386  pivot:  14379 end:  0
+index:  934  clause:  -28095 -28105 74 15786 14542 14543 -13904 14545 -14346 -15752 -28103 -17639 -28101 -28099 -28097  support:  933 916  pivot:  -14345 end:  0
+index:  935  clause:  -28095 74 15786 14542 14543 -13904 14545 -12498 -28105 -15752 -28103 -17639 -28101 -28099 -28097  support:  934 912  pivot:  -14346 end:  0
+index:  936  clause:  -28095 74 15786 15787 14542 14543 -13904 14545 -12498 -17639 -28105 -28103 -28101 -28099 -28097  support:  935 404  pivot:  -15752 end:  0
+index:  937  clause:  -28095 74 15786 -470 14542 14543 -13904 14545 -12498 -28103 15788 -28105 -17639 -28101 -28099 -28097  support:  936 405  pivot:  15787 end:  0
+index:  938  clause:  -28095 74 14542 14543 14545 -17639 15786 15788 -12498 -13904 -28105 -28103 -28101 -28099 -28097  support:  937 907  pivot:  -470 end:  0
+index:  939  clause:  -28095 74 14542 14543 14545 -17639 15786 15788 -12498 -28105 -28103 -28101 -28099 -28097  support:  938 899  pivot:  -13904 end:  0
+index:  940  clause:  416 -28095 74 15786 15788 14542 14543 -12498 14545 -28103 -17639 -28101 -28099 -28097  support:  939 463  pivot:  -28105 end:  0
+index:  941  clause:  416 -28095 74 15786 14542 14543 -12498 14545 -17639 -28103 -28101 -28099 -28097  support:  940 406  pivot:  15788 end:  0
+index:  942  clause:  416 -28095 74 14542 14543 -12498 14545 -28103 -17639 -28101 -28099 -28097  support:  941 403  pivot:  15786 end:  0
+index:  943  clause:  416 -28095 74 14542 14543 -12498 -17639 -28103 -28101 -28099 -28097  support:  942 396  pivot:  14545 end:  0
+index:  944  clause:  416 -28095 74 14542 -12498 -28103 -17639 -28101 -28099 -28097  support:  943 393  pivot:  14543 end:  0
+index:  945  clause:  416 -28095 74 -12498 -17639 -28103 -28101 -28099 -28097  support:  944 391  pivot:  14542 end:  0
+index:  946  clause:  -28095 415 74 -12498 -28103 -17639 -28101 -28099 -28097  support:  945 20  pivot:  416 end:  0
+index:  947  clause:  -28095 12225 -13943 74 -28097 -12498 -17639 -28103 -28101 -28099  support:  946 364  pivot:  415 end:  0
+index:  948  clause:  12096 -28095 -13943 74 -12498 -28103 -17639 -28101 -28099 -28097  support:  947 318  pivot:  12225 end:  0
+index:  949  clause:  -28095 356 -13943 74 -12498 -17639 -28103 -28101 -28099 -28097  support:  948 317  pivot:  12096 end:  0
+index:  950  clause:  -28095 -12091 12092 -13943 74 -12498 -28103 -17639 -28101 -28099 -28097  support:  949 309  pivot:  356 end:  0
+index:  951  clause:  -28095 -12091 -13943 74 -12498 -17639 -28103 -28101 -28099 -28097  support:  950 310  pivot:  12092 end:  0
+index:  952  clause:  -28095 -13943 74 -12498 -28103 12056 -17639 -28101 -28099 -28097  support:  951 308  pivot:  -12091 end:  0
+index:  953  clause:  -28095 -13943 74 -17639 12056 -28103 -28101 -28099 -28097  support:  952 599  pivot:  -12498 end:  0
+index:  954  clause:  -28095 -13943 74 -28103 12056 -28101 -28099 -28097  support:  953 538  pivot:  -17639 end:  0
+index:  955  clause:  -28095 74 12056 -28103 -28101 -28099 -28097  support:  954 530  pivot:  -13943 end:  0
+index:  956  clause:  -28095 74 530 -28107 -28105 -28103 -28101 -28099 -28097  support:  466 465  pivot:  -28109 end:  0
+index:  957  clause:  -28095 74 473 530 -28105 -28103 -28101 -28099 -28097  support:  956 464  pivot:  -28107 end:  0
+index:  958  clause:  -28095 74 -28103 529 -28105 473 -28101 -28099 -28097  support:  957 26  pivot:  530 end:  0
+index:  959  clause:  -28095 74 473 15921 -17639 -28105 -28103 -28101 -28099 -28097  support:  958 457  pivot:  529 end:  0
+index:  960  clause:  -28095 74 -28103 469 -17639 -28105 473 -28101 -28099 -28097  support:  959 414  pivot:  15921 end:  0
+index:  961  clause:  -28095 74 469 -17639 -28105 -28103 -28101 -28099 -28097  support:  960 21  pivot:  473 end:  0
+index:  962  clause:  -28095 74 -28103 469 -28105 -28101 -28099 -28097  support:  961 538  pivot:  -17639 end:  0
+index:  963  clause:  -28095 74 13904 -28105 -28103 -28101 -28099 -28097  support:  899 572  pivot:  -12498 end:  0
+index:  964  clause:  -435 -15752 14973 -434  support:  400 398  pivot:  15623 end:  0
+index:  965  clause:  -15752 14379 14973 -434 14543  support:  964 392  pivot:  -435 end:  0
+index:  966  clause:  -15752 14379 14973 -434  support:  965 393  pivot:  14543 end:  0
+index:  967  clause:  14542 14541 -15752 14379 14973  support:  966 390  pivot:  -434 end:  0
+index:  968  clause:  14973 -15752 14379 14541  support:  967 391  pivot:  14542 end:  0
+index:  969  clause:  -14346 -15752 14379 14973  support:  968 387  pivot:  14541 end:  0
+index:  970  clause:  -14346 -14345 -15752 14973  support:  969 386  pivot:  14379 end:  0
+index:  971  clause:  -13904 -14346 -15752 14973  support:  970 916  pivot:  -14345 end:  0
+index:  972  clause:  185 -6681  support:  174 172  pivot:  6552 end:  0
+index:  973  clause:  6548 -6681 -6547  support:  972 164  pivot:  185 end:  0
+index:  974  clause:  6512 6548 -6681  support:  973 163  pivot:  -6547 end:  0
+index:  975  clause:  6548 -6681 -149 6383  support:  974 159  pivot:  6512 end:  0
+index:  976  clause:  6548 5733 -6681 -150 -149  support:  975 157  pivot:  6383 end:  0
+index:  977  clause:  6548 -6681 -152 -150 -149  support:  976 156  pivot:  5733 end:  0
+index:  978  clause:  6548 -6681 5305 -150 -149 5304  support:  977 154  pivot:  -152 end:  0
+index:  979  clause:  -5031 6548 -6681 5305 -150 -149  support:  978 153  pivot:  5304 end:  0
+index:  980  clause:  6545 5305 6548 -6681 -150 -149  support:  979 160  pivot:  -5031 end:  0
+index:  981  clause:  -6681 -184 -150 -149 6546 6548 5305  support:  980 161  pivot:  6545 end:  0
+index:  982  clause:  -6681 -150 -149 6546 6548 5305  support:  981 173  pivot:  -184 end:  0
+index:  983  clause:  6546 -6681 5305 -150 -149  support:  982 165  pivot:  6548 end:  0
+index:  984  clause:  -6681 5305 -150 -149  support:  983 162  pivot:  6546 end:  0
+index:  985  clause:  -6681 -150 -149  support:  984 155  pivot:  5305 end:  0
+index:  986  clause:  12498 370 -10650 -369  support:  336 329  pivot:  -12496 end:  0
+index:  987  clause:  -12495 12498 -10650 12494 -369  support:  986 326  pivot:  370 end:  0
+index:  988  clause:  12498 -12497 -10650 12494 -369  support:  987 333  pivot:  -12495 end:  0
+index:  989  clause:  12498 -10650 12494 -12497  support:  988 334  pivot:  -369 end:  0
+index:  990  clause:  12498 -10650 -12497  support:  989 494  pivot:  12494 end:  0
+index:  991  clause:  -312 313 10650 -8802  support:  288 281  pivot:  -10648 end:  0
+index:  992  clause:  -10647 10646 -312 10650 -8802  support:  991 278  pivot:  313 end:  0
+index:  993  clause:  10646 -10649 -312 10650 -8802  support:  992 285  pivot:  -10647 end:  0
+index:  994  clause:  10646 -10649 10650 -8802  support:  993 286  pivot:  -312 end:  0
+index:  995  clause:  -10649 10650 -8802  support:  994 490  pivot:  10646 end:  0
+index:  996  clause:  -255 8802 256 -6954  support:  240 233  pivot:  -8800 end:  0
+index:  997  clause:  -255 8802 -8799 -6954 8798  support:  996 230  pivot:  256 end:  0
+index:  998  clause:  -255 8802 -6954 8798 -8801  support:  997 237  pivot:  -8799 end:  0
+index:  999  clause:  8802 -6954 8798 -8801  support:  998 238  pivot:  -255 end:  0
+index:  1000  clause:  8802 -6954 -8801  support:  999 486  pivot:  8798 end:  0
+index:  1001  clause:  -7149 7150 -8360 6953  support:  207 197  pivot:  206 end:  0
+index:  1002  clause:  -8360 6953 6954 7150  support:  1001 196  pivot:  -7149 end:  0
+index:  1003  clause:  -8360 6954 -198 6951 7150  support:  1002 189  pivot:  6953 end:  0
+index:  1004  clause:  6950 -8360 -199 6954 -198 7150  support:  1003 182  pivot:  6951 end:  0
+index:  1005  clause:  6950 6952 6954 7150 -5106 -8360 -198  support:  1004 185  pivot:  -199 end:  0
+index:  1006  clause:  6950 6954 -5106 7150 -8360 -198  support:  1005 192  pivot:  6952 end:  0
+index:  1007  clause:  6950 6954 7150 -5106 -8360  support:  1006 190  pivot:  -198 end:  0
+index:  1008  clause:  8802 6950 -5106 -8360 7150 -8801  support:  1007 1000  pivot:  6954 end:  0
+index:  1009  clause:  8802 6950 7150 -5106 -8801  support:  1008 603  pivot:  -8360 end:  0
+index:  1010  clause:  -10208 8802 6950 -5106 263 7150  support:  1009 255  pivot:  -8801 end:  0
+index:  1011  clause:  -10208 8802 6950 8998 7150 -5106 -8997  support:  1010 245  pivot:  263 end:  0
+index:  1012  clause:  -10208 8802 6950 8998 7150 -5106  support:  1011 244  pivot:  -8997 end:  0
+index:  1013  clause:  -10208 6950 8998 -10649 7150 -5106 10650  support:  1012 995  pivot:  8802 end:  0
+index:  1014  clause:  6950 8998 -10649 7150 -5106 10650  support:  1013 580  pivot:  -10208 end:  0
+index:  1015  clause:  320 6950 8998 -12056 7150 -5106 10650  support:  1014 303  pivot:  -10649 end:  0
+index:  1016  clause:  -10845 6950 8998 -12056 7150 -5106 10650 10846  support:  1015 293  pivot:  320 end:  0
+index:  1017  clause:  -10845 6950 8998 -12056 7150 -5106 10650  support:  1016 295  pivot:  10846 end:  0
+index:  1018  clause:  6950 8998 -12056 7150 -5106 10650  support:  1017 292  pivot:  -10845 end:  0
+index:  1019  clause:  6950 -12056 10650 7150 -5106  support:  1018 247  pivot:  8998 end:  0
+index:  1020  clause:  6950 -5106 -12056 10650  support:  1019 199  pivot:  7150 end:  0
+index:  1021  clause:  -12056 10650 -5106  support:  1020 482  pivot:  6950 end:  0
+index:  1022  clause:  -14541 -15752 14345 14542  support:  399 389  pivot:  434 end:  0
+index:  1023  clause:  -14541 -15752 14345  support:  1022 391  pivot:  14542 end:  0
+index:  1024  clause:  -15752 14345 14346  support:  1023 388  pivot:  -14541 end:  0
+index:  1025  clause:  13904 426 -15752 14346  support:  1024 379  pivot:  14345 end:  0
+index:  1026  clause:  14343 14344 14346 13904 -15752  support:  1025 545  pivot:  426 end:  0
+index:  1027  clause:  13904 12498 14343 14346 -15752  support:  1026 376  pivot:  14344 end:  0
+index:  1028  clause:  13904 12498 -15752 14346  support:  1027 540  pivot:  14343 end:  0
+index:  1029  clause:  12498 12497 -15752 377 14346  support:  1028 351  pivot:  13904 end:  0
+index:  1030  clause:  12497 12498 12694 -15752 14346 -12693  support:  1029 341  pivot:  377 end:  0
+index:  1031  clause:  12497 12498 -15752 14346 -12693  support:  1030 343  pivot:  12694 end:  0
+index:  1032  clause:  12497 12498 -15752 14346  support:  1031 340  pivot:  -12693 end:  0
+index:  1033  clause:  12498 -10650 -15752 14346  support:  1032 990  pivot:  12497 end:  0
+index:  1034  clause:  -12056 12498 -15752 14346 -5106  support:  1033 1021  pivot:  -10650 end:  0
+index:  1035  clause:  -28095 14346 74 -5106 12498 -15752 -28101 -28099 -28097  support:  1034 599  pivot:  -12056 end:  0
+index:  1036  clause:  -28095 14346 74 -5106 -15752 -28101 -28099 -28097  support:  1035 912  pivot:  12498 end:  0
+index:  1037  clause:  -12095 10248 -358  support:  316 270  pivot:  10345 end:  0
+index:  1038  clause:  -12095 -358 299  support:  1037 269  pivot:  10248 end:  0
+index:  1039  clause:  -12095 10244 -358 -10243  support:  1038 261  pivot:  299 end:  0
+index:  1040  clause:  10208 -12095 10244 -358  support:  1039 260  pivot:  -10243 end:  0
+index:  1041  clause:  -12095 10244 -10650 10649 -358  support:  1040 834  pivot:  10208 end:  0
+index:  1042  clause:  -12095 10244 -10683 -10650 -358  support:  1041 290  pivot:  10649 end:  0
+index:  1043  clause:  -12095 321 10244 -10650 -358 10847  support:  1042 296  pivot:  -10683 end:  0
+index:  1044  clause:  -12095 10244 -10650 -11927 11277 -358 10847  support:  1043 302  pivot:  321 end:  0
+index:  1045  clause:  -12095 10244 -10650 -11927 -358 -323 10847  support:  1044 301  pivot:  11277 end:  0
+index:  1046  clause:  10848 -12095 10849 10244 -10650 -11927 -358 10847  support:  1045 299  pivot:  -323 end:  0
+index:  1047  clause:  -12095 10849 10244 -10650 -11927 -10575 -358 10847  support:  1046 298  pivot:  10848 end:  0
+index:  1048  clause:  -12095 10849 10244 -10650 -11927 12089 -358 10847  support:  1047 305  pivot:  -10575 end:  0
+index:  1049  clause:  -12095 10849 10244 -10650 -11927 -358 12090 -355 10847  support:  1048 306  pivot:  12089 end:  0
+index:  1050  clause:  -12095 10849 10244 -10650 -11927 -359 12090 -355 10847  support:  1049 17  pivot:  -358 end:  0
+index:  1051  clause:  -12095 10849 10244 -10650 -11927 -359 12090 10847  support:  1050 15  pivot:  -355 end:  0
+index:  1052  clause:  -12095 10849 10244 -10650 28103 -11927 12090 10847  support:  1051 462  pivot:  -359 end:  0
+index:  1053  clause:  -12095 10849 -28095 10244 -10650 -11927 74 -28097 -28109 -28107 -28105 12090 -28101 -28099 10847  support:  1052 466  pivot:  28103 end:  0
+index:  1054  clause:  416 -12095 10849 -28095 10244 -10650 -11927 74 10847 -28109 -28107 12090 -28101 -28099 -28097  support:  1053 463  pivot:  -28105 end:  0
+index:  1055  clause:  -12095 10849 -28095 10244 -10650 -11927 74 -28097 -28109 -28107 12090 -28101 -28099 413 10847  support:  1054 19  pivot:  416 end:  0
+index:  1056  clause:  -12095 10849 -28095 10244 -10650 -11927 74 -13939 10847 -28109 13940 -28107 12090 -28101 -28099 -28097  support:  1055 357  pivot:  413 end:  0
+index:  1057  clause:  -12095 -28095 10244 74 -13939 10847 10849 -10650 -11927 -28109 -28107 12090 -28101 -28099 -28097  support:  1056 358  pivot:  13940 end:  0
+index:  1058  clause:  -12095 -28095 10849 10244 -10650 -11927 74 -28097 13904 -28109 -28107 12090 -28101 -28099 10847  support:  1057 356  pivot:  -13939 end:  0
+index:  1059  clause:  -12095 -28095 10849 10244 -10650 -11927 74 10847 12497 -28109 -28107 377 12090 -28101 -28099 -28097  support:  1058 351  pivot:  13904 end:  0
+index:  1060  clause:  -12095 -28095 10244 74 12497 12694 10847 10849 -10650 -11927 -12693 -28109 -28107 12090 -28101 -28099 -28097  support:  1059 341  pivot:  377 end:  0
+index:  1061  clause:  -12095 -28095 10244 74 12497 10847 10849 -10650 -11927 -12693 -28109 -28107 12090 -28101 -28099 -28097  support:  1060 343  pivot:  12694 end:  0
+index:  1062  clause:  -12095 -28095 10244 74 12497 12498 10847 10849 -10650 -11927 -28109 -28107 12090 -28101 -28099 -28097  support:  1061 340  pivot:  -12693 end:  0
+index:  1063  clause:  -12095 -28095 10244 74 12497 12498 10847 10849 -10650 -11927 -28109 -28107 -28101 -28099 -28097  support:  1062 307  pivot:  12090 end:  0
+index:  1064  clause:  -320 -12095 -28095 10849 10244 -10650 -12056 74 -28097 12497 12498 -28109 -28107 -28101 -28099 10847  support:  1063 304  pivot:  -11927 end:  0
+index:  1065  clause:  -320 -12095 -28095 10244 74 12497 12498 10847 -10650 -12056 -28109 -28107 -28101 -28099 -28097  support:  1064 300  pivot:  10849 end:  0
+index:  1066  clause:  -320 -12095 -28095 10244 -10650 -12056 74 -28097 12497 12498 -28109 -28107 -28101 -28099  support:  1065 297  pivot:  10847 end:  0
+index:  1067  clause:  -12095 -28095 10244 10845 -10650 -12056 74 12497 12498 -28109 -28107 -28101 -28099 10846 -28097  support:  1066 294  pivot:  -320 end:  0
+index:  1068  clause:  -12095 -28095 -28099 10244 -10650 -12056 74 12497 12498 -28109 -28107 -28101 10845 -28097  support:  1067 295  pivot:  10846 end:  0
+index:  1069  clause:  -12095 -28095 10244 -10650 -12056 74 12497 12498 -28109 -28107 -28101 -28099 -28097  support:  1068 291  pivot:  10845 end:  0
+index:  1070  clause:  -12095 -28095 -10650 -12056 74 12497 12498 -28109 -28107 -28101 -28099 -28097  support:  1069 262  pivot:  10244 end:  0
+index:  1071  clause:  -12095 -28095 -10650 -12056 74 12498 -28109 -28107 -28101 -28099 -28097  support:  1070 990  pivot:  12497 end:  0
+index:  1072  clause:  -12095 -28095 -12056 74 -5106 12498 -28109 -28107 -28101 -28099 -28097  support:  1071 1021  pivot:  -10650 end:  0
+index:  1073  clause:  -12095 -28095 74 -5106 12498 -28109 -28107 -28101 -28099 -28097  support:  1072 599  pivot:  -12056 end:  0
+index:  1074  clause:  -28095 74 -5106 12498 -28109 -28107 -28101 -28099 -28097  support:  1073 526  pivot:  -12095 end:  0
+index:  1075  clause:  -12095 10248 -358  support:  316 270  pivot:  10345 end:  0
+index:  1076  clause:  -12095 -358 299  support:  1075 269  pivot:  10248 end:  0
+index:  1077  clause:  -12095 10244 -358 -10243  support:  1076 261  pivot:  299 end:  0
+index:  1078  clause:  10208 -12095 10244 -358  support:  1077 260  pivot:  -10243 end:  0
+index:  1079  clause:  -12095 10244 -10650 10649 -358  support:  1078 834  pivot:  10208 end:  0
+index:  1080  clause:  -12095 10244 -10683 -10650 -358  support:  1079 290  pivot:  10649 end:  0
+index:  1081  clause:  -12095 321 10244 -10650 -358 10847  support:  1080 296  pivot:  -10683 end:  0
+index:  1082  clause:  -12095 10244 -10650 -11927 11277 -358 10847  support:  1081 302  pivot:  321 end:  0
+index:  1083  clause:  -320 -12095 10244 -10650 -12056 11277 -358 10847  support:  1082 304  pivot:  -11927 end:  0
+index:  1084  clause:  -320 -12095 10244 -10650 11277 -358 12091 10847  support:  1083 308  pivot:  -12056 end:  0
+index:  1085  clause:  -320 -12095 10244 -10650 12092 11277 -358 -356 10847  support:  1084 309  pivot:  12091 end:  0
+index:  1086  clause:  -320 -12095 -356 10244 -10650 11277 -358 10847  support:  1085 310  pivot:  12092 end:  0
+index:  1087  clause:  -320 -12095 10244 -10650 -358 -356 -323 10847  support:  1086 301  pivot:  11277 end:  0
+index:  1088  clause:  -320 -12095 10848 10849 10244 -10650 -358 -356 10847  support:  1087 299  pivot:  -323 end:  0
+index:  1089  clause:  -320 -12095 10849 10244 -10650 -10575 -358 -356 10847  support:  1088 298  pivot:  10848 end:  0
+index:  1090  clause:  -320 -12095 10849 10244 -10650 12089 -358 -356 10847  support:  1089 305  pivot:  -10575 end:  0
+index:  1091  clause:  -320 -12095 10849 10244 -10650 12090 -358 -356 -355 10847  support:  1090 306  pivot:  12089 end:  0
+index:  1092  clause:  -320 -12095 10849 10244 -10650 -358 -356 -355 10847  support:  1091 307  pivot:  12090 end:  0
+index:  1093  clause:  -320 -12095 10244 -10650 -358 -356 -355 10847  support:  1092 300  pivot:  10849 end:  0
+index:  1094  clause:  -320 -12095 10244 -10650 -358 -356 -355  support:  1093 297  pivot:  10847 end:  0
+index:  1095  clause:  -12095 10244 10845 -10650 -358 -356 -355 10846  support:  1094 294  pivot:  -320 end:  0
+index:  1096  clause:  -12095 10244 -10650 -355 -358 -356 10845  support:  1095 295  pivot:  10846 end:  0
+index:  1097  clause:  -12095 10244 -10650 -355 -358 -356  support:  1096 291  pivot:  10845 end:  0
+index:  1098  clause:  -12095 -10650 -358 -356 -355  support:  1097 262  pivot:  10244 end:  0
+index:  1099  clause:  -12095 -10650 -359 -356 -355  support:  1098 17  pivot:  -358 end:  0
+index:  1100  clause:  -12095 -10650 -359 -355  support:  1099 16  pivot:  -356 end:  0
+index:  1101  clause:  -12095 -10650 -359  support:  1100 15  pivot:  -355 end:  0
+index:  1102  clause:  -359 -10650  support:  1101 526  pivot:  -12095 end:  0
+index:  1103  clause:  -370 -12498 -369  support:  337 327  pivot:  12496 end:  0
+index:  1104  clause:  12495 -12056 -12498 -369  support:  1103 324  pivot:  -370 end:  0
+index:  1105  clause:  12497 -12056 -12498 -369  support:  1104 332  pivot:  12495 end:  0
+index:  1106  clause:  12497 -12056 -12498  support:  1105 330  pivot:  -369 end:  0
+index:  1107  clause:  -12056 -12531 -12498  support:  1106 338  pivot:  12497 end:  0
+index:  1108  clause:  12695 -12056 378 -12498  support:  1107 344  pivot:  -12531 end:  0
+index:  1109  clause:  -13775 13125 12695 -12056 -12498  support:  1108 350  pivot:  378 end:  0
+index:  1110  clause:  -13904 13125 12695 -12056 -377 -12498  support:  1109 352  pivot:  -13775 end:  0
+index:  1111  clause:  13939 13125 12695 -12056 -377 -12498  support:  1110 356  pivot:  -13904 end:  0
+index:  1112  clause:  -413 13125 -377 -12056 -12498 13940 12695  support:  1111 357  pivot:  13939 end:  0
+index:  1113  clause:  -413 -380 -377 -12056 -12498 13940 12695  support:  1112 349  pivot:  13125 end:  0
+index:  1114  clause:  -413 -377 -12056 -12498 13940 12695 12696 12697  support:  1113 347  pivot:  -380 end:  0
+index:  1115  clause:  -413 -377 -12056 -12498 -12423 13940 12695 12697  support:  1114 346  pivot:  12696 end:  0
+index:  1116  clause:  -413 -377 -12056 12697 -12498 13937 13940 12695  support:  1115 353  pivot:  -12423 end:  0
+index:  1117  clause:  -413 -412 -377 -12056 -12498 13938 13940 12695 12697  support:  1116 354  pivot:  13937 end:  0
+index:  1118  clause:  -416 -412 -377 -12056 -12498 13938 13940 12695 12697  support:  1117 19  pivot:  -413 end:  0
+index:  1119  clause:  -416 -377 -12056 -12498 13938 13940 12695 12697  support:  1118 18  pivot:  -412 end:  0
+index:  1120  clause:  -377 -12056 28105 -12498 13938 13940 12695 12697  support:  1119 463  pivot:  -416 end:  0
+index:  1121  clause:  -28095 -377 -12056 74 -12498 -28103 13938 -28109 13940 -28107 12695 12697 -28101 -28099 -28097  support:  1120 466  pivot:  28105 end:  0
+index:  1122  clause:  -28095 -377 74 12695 12697 -12498 13938 -28109 13940 -28107 -28103 -28101 -28099 -28097  support:  1121 955  pivot:  -12056 end:  0
+index:  1123  clause:  -28095 -377 359 74 -12498 13938 -28109 13940 -28107 12695 12697 -28101 -28099 -28097  support:  1122 462  pivot:  -28103 end:  0
+index:  1124  clause:  -28095 359 74 -12498 13938 -28109 13940 -28107 12693 12695 12694 12697 -28101 -28099 -28097  support:  1123 342  pivot:  -377 end:  0
+index:  1125  clause:  -28095 359 74 -12498 13938 -28109 13940 -28107 12695 12694 12697 -28101 -28099 -28097  support:  1124 339  pivot:  12693 end:  0
+index:  1126  clause:  -28095 -10650 74 -12498 13938 -28109 13940 -28107 12694 12695 12697 -28101 -28099 -28097  support:  1125 1102  pivot:  359 end:  0
+index:  1127  clause:  -28095 74 -12498 13938 -28109 13940 -28107 12694 12695 12697 -28101 -28099 -28097  support:  1126 576  pivot:  -10650 end:  0
+index:  1128  clause:  -28095 74 -5106 12694 12695 12697 13938 -28109 13940 -28107 -28101 -28099 -28097  support:  1127 1074  pivot:  -12498 end:  0
+index:  1129  clause:  -28095 74 -5106 13938 13940 -28107 12694 12695 530 12697 -28101 -28099 -28097  support:  1128 465  pivot:  -28109 end:  0
+index:  1130  clause:  -28095 74 473 -5106 13938 530 13940 12694 12695 12697 -28101 -28099 -28097  support:  1129 464  pivot:  -28107 end:  0
+index:  1131  clause:  -28095 74 12697 -5106 529 13938 13940 12694 12695 473 -28101 -28099 -28097  support:  1130 26  pivot:  530 end:  0
+index:  1132  clause:  -28095 74 473 -5106 13938 15921 13940 12694 12695 -17639 12697 -28101 -28099 -28097  support:  1131 457  pivot:  529 end:  0
+index:  1133  clause:  -28095 74 12697 -5106 15792 13938 13940 12694 12695 -17639 473 -28101 -28099 -28097  support:  1132 415  pivot:  15921 end:  0
+index:  1134  clause:  -28095 74 473 -5106 13938 13940 12694 12695 -17639 12697 470 -28101 -28099 -28097  support:  1133 413  pivot:  15792 end:  0
+index:  1135  clause:  -28095 74 12697 -5106 13938 13940 12694 12695 -17639 470 -28101 -28099 -28097  support:  1134 22  pivot:  473 end:  0
+index:  1136  clause:  -28095 74 15788 -5106 13938 13940 -15787 12694 12695 -17639 12697 -28101 -28099 -28097  support:  1135 405  pivot:  470 end:  0
+index:  1137  clause:  -28095 74 12697 -5106 13938 13940 -15787 12694 12695 -17639 -28101 -28099 -28097  support:  1136 406  pivot:  15788 end:  0
+index:  1138  clause:  -28095 15752 74 -5106 13938 13940 12694 12695 -17639 12697 -28101 -28099 -28097  support:  1137 404  pivot:  -15787 end:  0
+index:  1139  clause:  -28095 15752 74 12697 -5106 13938 12694 12695 -17639 -28101 -28099 -28097  support:  1138 358  pivot:  13940 end:  0
+index:  1140  clause:  -28095 15752 74 -5106 12694 12695 -17639 12697 -28101 -28099 -28097  support:  1139 355  pivot:  13938 end:  0
+index:  1141  clause:  -28095 15752 74 -5106 12694 12695 -17639 -28101 -28099 -28097  support:  1140 348  pivot:  12697 end:  0
+index:  1142  clause:  -28095 15752 74 -5106 12694 -17639 -28101 -28099 -28097  support:  1141 345  pivot:  12695 end:  0
+index:  1143  clause:  -28095 15752 74 -5106 -17639 -28101 -28099 -28097  support:  1142 343  pivot:  12694 end:  0
+index:  1144  clause:  -28095 74 14346 -5106 -17639 -28101 -28099 -28097  support:  1143 1036  pivot:  15752 end:  0
+index:  1145  clause:  -28095 74 14346 -5106 -28101 -28099 -28097  support:  1144 538  pivot:  -17639 end:  0
+index:  1146  clause:  -28095 8802 74 -5106 12056 -28099 -28097  support:  794 777  pivot:  -6954 end:  0
+index:  1147  clause:  -28095 8802 74 -5106 10650 -28099 -28097  support:  1146 1021  pivot:  12056 end:  0
+index:  1148  clause:  -28095 8802 74 -5106 -28099 -28097  support:  1147 584  pivot:  10650 end:  0
+index:  1149  clause:  -8802 28101  support:  461 826  pivot:  302 end:  0
+index:  1150  clause:  -28095 28101 74 -5106 -28099 -28097  support:  1149 1148  pivot:  -8802 end:  0
+index:  1151  clause:  -28095 74 -5106 12498 12056 -28099 -28097  support:  1150 599  pivot:  28101 end:  0
+index:  1152  clause:  -28095 74 -5106 12498 10650 -28099 -28097  support:  1151 1021  pivot:  12056 end:  0
+index:  1153  clause:  -28095 74 -5106 10650 -28099 -28097  support:  1152 576  pivot:  12498 end:  0
+index:  1154  clause:  12498 -14346 14344  support:  385 383  pivot:  -426 end:  0
+index:  1155  clause:  12498 -14346  support:  1154 376  pivot:  14344 end:  0
+index:  1156  clause:  -370 -12498 -369  support:  337 327  pivot:  12496 end:  0
+index:  1157  clause:  12495 -12056 -12498 -369  support:  1156 324  pivot:  -370 end:  0
+index:  1158  clause:  12497 -12056 -12498 -369  support:  1157 332  pivot:  12495 end:  0
+index:  1159  clause:  12497 -12056 -12498  support:  1158 330  pivot:  -369 end:  0
+index:  1160  clause:  15752 -470 15788  support:  405 404  pivot:  -15787 end:  0
+index:  1161  clause:  -13904 14973 -14346 -470 15788  support:  1160 971  pivot:  15752 end:  0
+index:  1162  clause:  -13904 -14346 -470 -437 15788  support:  1161 397  pivot:  14973 end:  0
+index:  1163  clause:  -13904 14544 14545 -14346 -470 15788  support:  1162 395  pivot:  -437 end:  0
+index:  1164  clause:  -13904 14545 -14271 -14346 -470 15788  support:  1163 394  pivot:  14544 end:  0
+index:  1165  clause:  -13904 14545 -14346 15785 -470 15788  support:  1164 401  pivot:  -14271 end:  0
+index:  1166  clause:  -470 15786 15788 -469 -13904 14545 -14346  support:  1165 402  pivot:  15785 end:  0
+index:  1167  clause:  -28095 15786 -470 15788 74 -13904 14545 -14346 -28105 -28103 -28101 -28099 -28097  support:  1166 962  pivot:  -469 end:  0
+index:  1168  clause:  -28095 74 14545 15786 15788 -13904 -14346 -28105 -28103 -28101 -28099 -28097  support:  1167 907  pivot:  -470 end:  0
+index:  1169  clause:  416 -28095 74 15786 15788 -13904 14545 -14346 -28103 -28101 -28099 -28097  support:  1168 463  pivot:  -28105 end:  0
+index:  1170  clause:  416 -28095 74 15786 -13904 14545 -14346 -28103 -28101 -28099 -28097  support:  1169 406  pivot:  15788 end:  0
+index:  1171  clause:  416 -28095 74 -13904 14545 -14346 -28103 -28101 -28099 -28097  support:  1170 403  pivot:  15786 end:  0
+index:  1172  clause:  416 -28095 74 -13904 -14346 -28103 -28101 -28099 -28097  support:  1171 396  pivot:  14545 end:  0
+index:  1173  clause:  -28095 74 -13904 -14346 -28103 -28101 412 -28099 -28097  support:  1172 18  pivot:  416 end:  0
+index:  1174  clause:  -28095 74 -13937 -13904 13938 -14346 -28103 -28101 -28099 -28097  support:  1173 354  pivot:  412 end:  0
+index:  1175  clause:  -28095 74 -13937 -13904 -14346 -28103 -28101 -28099 -28097  support:  1174 355  pivot:  13938 end:  0
+index:  1176  clause:  -28095 12423 74 -13904 -14346 -28103 -28101 -28099 -28097  support:  1175 353  pivot:  -13937 end:  0
+index:  1177  clause:  -28095 -12696 74 -13904 -14346 -28103 -28101 -28099 -28097  support:  1176 346  pivot:  12423 end:  0
+index:  1178  clause:  -28095 74 12697 -13904 -14346 -28103 -28101 380 -28099 -28097  support:  1177 347  pivot:  -12696 end:  0
+index:  1179  clause:  -28095 74 -13125 -28103 -13904 -14346 12697 -28101 -28099 -28097  support:  1178 349  pivot:  380 end:  0
+index:  1180  clause:  -28095 -28101 -378 74 12697 -13904 -13775 -14346 -28103 -28099 -28097  support:  1179 350  pivot:  -13125 end:  0
+index:  1181  clause:  -28095 -378 -377 74 -28103 -13904 -14346 12697 -28101 -28099 -28097  support:  1180 352  pivot:  -13775 end:  0
+index:  1182  clause:  -28095 -378 -377 74 -13904 -14346 -28103 -28101 -28099 -28097  support:  1181 348  pivot:  12697 end:  0
+index:  1183  clause:  -28095 -377 74 -13904 12531 -14346 12695 -28103 -28101 -28099 -28097  support:  1182 344  pivot:  -378 end:  0
+index:  1184  clause:  -28095 -377 74 -13904 12531 -14346 -28103 -28101 -28099 -28097  support:  1183 345  pivot:  12695 end:  0
+index:  1185  clause:  -28095 74 -13904 12531 12693 -14346 12694 -28103 -28101 -28099 -28097  support:  1184 342  pivot:  -377 end:  0
+index:  1186  clause:  -28095 74 -13904 12531 12693 -14346 -28103 -28101 -28099 -28097  support:  1185 343  pivot:  12694 end:  0
+index:  1187  clause:  -28095 74 -12498 -13904 12531 -14346 -28103 -28101 -28099 -28097  support:  1186 339  pivot:  12693 end:  0
+index:  1188  clause:  -28095 74 -12498 -12497 -13904 -14346 -28103 -28101 -28099 -28097  support:  1187 338  pivot:  12531 end:  0
+index:  1189  clause:  -28095 -12056 74 -12498 -13904 -14346 -28103 -28101 -28099 -28097  support:  1188 1159  pivot:  -12497 end:  0
+index:  1190  clause:  -28095 -12056 74 -13904 -14346 -28103 -28101 -28099 -28097  support:  1189 1155  pivot:  -12498 end:  0
+index:  1191  clause:  -28095 74 -13904 -14346 -28103 -28101 -28099 -28097  support:  1190 955  pivot:  -12056 end:  0
+index:  1192  clause:  28105 413  support:  463 19  pivot:  416 end:  0
+index:  1193  clause:  13940 28105 -13939  support:  1192 357  pivot:  413 end:  0
+index:  1194  clause:  13904 13940 28105  support:  1193 356  pivot:  -13939 end:  0
+index:  1195  clause:  -28095 74 13904 13940 -28103 -28101 -28099 -28097  support:  1194 963  pivot:  28105 end:  0
+index:  1196  clause:  -28095 74 13940 -14346 -28103 -28101 -28099 -28097  support:  1195 1191  pivot:  13904 end:  0
+index:  1197  clause:  -28095 359 74 13940 -14346 -28101 -28099 -28097  support:  1196 462  pivot:  -28103 end:  0
+index:  1198  clause:  -28095 359 74 -5106 13940 -28101 -28099 -28097  support:  1197 1145  pivot:  -14346 end:  0
+index:  1199  clause:  -28095 359 74 -5106 302 13940 -28099 -28097  support:  1198 461  pivot:  -28101 end:  0
+index:  1200  clause:  -28095 -10650 74 -5106 302 13940 -28099 -28097  support:  1199 1102  pivot:  359 end:  0
+index:  1201  clause:  -28095 74 -5106 302 13940 -28099 -28097  support:  1200 1153  pivot:  -10650 end:  0
+index:  1202  clause:  -28095 74 -5106 13940 -28099 -8802 -28097  support:  1201 826  pivot:  302 end:  0
+index:  1203  clause:  -28095 74 -5106 13940 -28099 -28097  support:  1202 1148  pivot:  -8802 end:  0
+index:  1204  clause:  -28095 13940 245 74 -5106 -28097  support:  1203 460  pivot:  -28099 end:  0
+index:  1205  clause:  -28095 13940 245 74 188 -5106  support:  1204 459  pivot:  -28097 end:  0
+index:  1206  clause:  -28095 245 74 188 -5106  support:  1205 358  pivot:  13940 end:  0
+index:  1207  clause:  -28095 244 74 188 -5106  support:  1206 11  pivot:  245 end:  0
+index:  1208  clause:  -28095 -8399 6681 74 188 -5106  support:  1207 220  pivot:  244 end:  0
+index:  1209  clause:  -28095 74 -150 -149 -5106 -8399 188  support:  1208 985  pivot:  6681 end:  0
+index:  1210  clause:  -28095 74 -149 -150 -5106 -8399  support:  1209 755  pivot:  188 end:  0
+index:  1211  clause:  -28095 74 -150 -5106 -8399 5302 5301  support:  1210 149  pivot:  -149 end:  0
+index:  1212  clause:  -28095 -8399 5301 -5106 74 -150  support:  1211 150  pivot:  5302 end:  0
+index:  1213  clause:  -28095 -8399 -150 74 -5106  support:  1212 146  pivot:  5301 end:  0
+index:  1214  clause:  -28095 74 -150 -5106  support:  1213 518  pivot:  -8399 end:  0
+index:  1215  clause:  28105 413  support:  463 19  pivot:  416 end:  0
+index:  1216  clause:  13940 28105 -13939  support:  1215 357  pivot:  413 end:  0
+index:  1217  clause:  13904 13940 28105  support:  1216 356  pivot:  -13939 end:  0
+index:  1218  clause:  -28095 74 13904 13940 -28103 -28101 -28099 -28097  support:  1217 963  pivot:  28105 end:  0
+index:  1219  clause:  -28095 74 13940 -14346 -28103 -28101 -28099 -28097  support:  1218 1191  pivot:  13904 end:  0
+index:  1220  clause:  -28095 359 74 13940 -14346 -28101 -28099 -28097  support:  1219 462  pivot:  -28103 end:  0
+index:  1221  clause:  -28095 359 74 -5106 13940 -28101 -28099 -28097  support:  1220 1145  pivot:  -14346 end:  0
+index:  1222  clause:  -28095 359 74 -5106 302 13940 -28099 -28097  support:  1221 461  pivot:  -28101 end:  0
+index:  1223  clause:  -28095 -10650 74 -5106 302 13940 -28099 -28097  support:  1222 1102  pivot:  359 end:  0
+index:  1224  clause:  -28095 74 -5106 302 13940 -28099 -28097  support:  1223 1153  pivot:  -10650 end:  0
+index:  1225  clause:  -28095 74 -5106 13940 -28099 -8802 -28097  support:  1224 826  pivot:  302 end:  0
+index:  1226  clause:  -28095 74 -5106 13940 -28099 -28097  support:  1225 1148  pivot:  -8802 end:  0
+index:  1227  clause:  -28095 13940 74 188 -28099 -5106  support:  1226 459  pivot:  -28097 end:  0
+index:  1228  clause:  -28095 74 188 -28099 -5106  support:  1227 358  pivot:  13940 end:  0
+index:  1229  clause:  -28095 74 187 -28099 -5106  support:  1228 8  pivot:  188 end:  0
+index:  1230  clause:  -28095 4833 -6551 74 -28099 -5106  support:  1229 171  pivot:  187 end:  0
+index:  1231  clause:  4704 -28095 -6551 74 -28099 -5106  support:  1230 127  pivot:  4833 end:  0
+index:  1232  clause:  -28095 128 -6551 74 -28099 -5106  support:  1231 126  pivot:  4704 end:  0
+index:  1233  clause:  -28095 -4699 -6551 74 -5106 4700 -28099  support:  1232 118  pivot:  128 end:  0
+index:  1234  clause:  -28095 -6551 74 -5106 4664 4700 -28099  support:  1233 117  pivot:  -4699 end:  0
+index:  1235  clause:  -28095 -6551 74 -5106 5105 4700 -28099  support:  1234 742  pivot:  4664 end:  0
+index:  1236  clause:  -28095 -6551 74 -5139 -5106 4700 -28099  support:  1235 145  pivot:  5105 end:  0
+index:  1237  clause:  -28095 -6551 74 -5106 150 5303 4700 -28099  support:  1236 151  pivot:  -5139 end:  0
+index:  1238  clause:  -28095 -6551 74 -5106 150 4700 -28099  support:  1237 152  pivot:  5303 end:  0
+index:  1239  clause:  -28095 150 -6551 74 -28099 -5106  support:  1238 119  pivot:  4700 end:  0
+index:  1240  clause:  -28095 -6551 74 -5106 -28099  support:  1239 1214  pivot:  150 end:  0
+index:  1241  clause:  -28095 74 -28099 -5106  support:  1240 514  pivot:  -6551 end:  0
+index:  1242  clause:  -207 -206 -8360 7581  support:  208 206  pivot:  8199 end:  0
+index:  1243  clause:  -206 -8360 6987 7581 7151  support:  1242 200  pivot:  -207 end:  0
+index:  1244  clause:  -206 -8360 6987 7581  support:  1243 201  pivot:  7151 end:  0
+index:  1245  clause:  7149 7150 -8360 6987 7581  support:  1244 198  pivot:  -206 end:  0
+index:  1246  clause:  7581 -8360 6987 7149  support:  1245 199  pivot:  7150 end:  0
+index:  1247  clause:  -6954 -8360 6987 7581  support:  1246 195  pivot:  7149 end:  0
+index:  1248  clause:  -6954 -6953 -8360 7581  support:  1247 194  pivot:  6987 end:  0
+index:  1249  clause:  -6512 -6954 -8360 7581  support:  1248 830  pivot:  -6953 end:  0
+index:  1250  clause:  -7149 7150 -8360 6953  support:  207 197  pivot:  206 end:  0
+index:  1251  clause:  -8360 6953 6954 7150  support:  1250 196  pivot:  -7149 end:  0
+index:  1252  clause:  -8360 6954 -198 6951 7150  support:  1251 189  pivot:  6953 end:  0
+index:  1253  clause:  6950 -8360 -199 6954 -198 7150  support:  1252 182  pivot:  6951 end:  0
+index:  1254  clause:  6950 6952 6954 7150 -5106 -8360 -198  support:  1253 185  pivot:  -199 end:  0
+index:  1255  clause:  6950 6954 -5106 7150 -8360 -198  support:  1254 192  pivot:  6952 end:  0
+index:  1256  clause:  6950 6954 7150 -5106 -8360  support:  1255 190  pivot:  -198 end:  0
+index:  1257  clause:  6950 -5106 7150 -6512 -8360 7581  support:  1256 1249  pivot:  6954 end:  0
+index:  1258  clause:  6547 6950 7150 -8360 7581 -5106  support:  1257 163  pivot:  -6512 end:  0
+index:  1259  clause:  6950 -185 -5106 7150 6548 -8360 7581  support:  1258 164  pivot:  6547 end:  0
+index:  1260  clause:  6950 -6552 7150 -5106 6548 -8360 7581  support:  1259 172  pivot:  -185 end:  0
+index:  1261  clause:  6950 -6681 -5106 7150 6548 -8360 7581  support:  1260 174  pivot:  -6552 end:  0
+index:  1262  clause:  6950 -244 7150 -5106 -8399 6548 -8360 7581  support:  1261 220  pivot:  -6681 end:  0
+index:  1263  clause:  6950 8395 -244 7150 -5106 -8399 6548 7581  support:  1262 212  pivot:  -8360 end:  0
+index:  1264  clause:  6950 -244 8396 7150 -5106 -242 -8399 6548 7581  support:  1263 213  pivot:  8395 end:  0
+index:  1265  clause:  6950 -244 8396 7150 -5106 -242 -8399 -209 6548  support:  1264 205  pivot:  7581 end:  0
+index:  1266  clause:  6950 -244 8396 7150 -5106 -242 -8399 7152 6548 7153  support:  1265 203  pivot:  -209 end:  0
+index:  1267  clause:  -6879 6950 -244 8396 7150 -5106 -242 -8399 7153 6548  support:  1266 202  pivot:  7152 end:  0
+index:  1268  clause:  6950 8393 -244 8396 7150 -5106 -242 -8399 7153 6548  support:  1267 209  pivot:  -6879 end:  0
+index:  1269  clause:  6950 8394 -244 8396 7150 -5106 -242 -8399 7153 -241 6548  support:  1268 210  pivot:  8393 end:  0
+index:  1270  clause:  6950 8394 -245 8396 7150 -5106 -242 -8399 7153 -241 6548  support:  1269 11  pivot:  -244 end:  0
+index:  1271  clause:  6950 8394 -245 8396 7150 -5106 -8399 7153 -241 6548  support:  1270 10  pivot:  -242 end:  0
+index:  1272  clause:  6950 8394 -245 8396 7150 -5106 -8399 7153 6548  support:  1271 9  pivot:  -241 end:  0
+index:  1273  clause:  28099 6950 8394 8396 7150 -5106 -8399 7153 6548  support:  1272 460  pivot:  -245 end:  0
+index:  1274  clause:  28099 6950 8394 7150 -5106 -8399 7153 6548  support:  1273 214  pivot:  8396 end:  0
+index:  1275  clause:  28099 6950 7150 -5106 -8399 7153 6548  support:  1274 211  pivot:  8394 end:  0
+index:  1276  clause:  -8399 28099 6548 6950 -5106 7150  support:  1275 204  pivot:  7153 end:  0
+index:  1277  clause:  -8399 28099 6548 6950 -5106  support:  1276 199  pivot:  7150 end:  0
+index:  1278  clause:  -8399 28099 6950 -5106  support:  1277 165  pivot:  6548 end:  0
+index:  1279  clause:  -28095 6950 74 -5106 -8399  support:  1278 1241  pivot:  28099 end:  0
+index:  1280  clause:  -28095 6950 74 -5106  support:  1279 518  pivot:  -8399 end:  0
+index:  1281  clause:  -28095 74 -5106  support:  1280 482  pivot:  6950 end:  0
+index:  1282  clause:  -28095 74 302 12498 12056 -28099 -28097  support:  461 599  pivot:  28101 end:  0
+index:  1283  clause:  -28095 74 302 12498 245 12056 -28097  support:  1282 460  pivot:  -28099 end:  0
+index:  1284  clause:  -28095 74 302 12498 245 12056 188  support:  1283 459  pivot:  -28097 end:  0
+index:  1285  clause:  320 -28095 74 302 12498 245 10649 188  support:  1284 303  pivot:  12056 end:  0
+index:  1286  clause:  -28095 -10845 74 302 12498 245 10649 188 10846  support:  1285 293  pivot:  320 end:  0
+index:  1287  clause:  -28095 74 302 12498 245 10649 10650 188 10846  support:  1286 292  pivot:  -10845 end:  0
+index:  1288  clause:  -28095 74 299 12498 245 10649 10650 188 10846  support:  1287 13  pivot:  302 end:  0
+index:  1289  clause:  -28095 10244 74 12498 245 10649 10650 188 -10243 10846  support:  1288 261  pivot:  299 end:  0
+index:  1290  clause:  10208 -28095 10244 74 12498 245 10649 10650 188 10846  support:  1289 260  pivot:  -10243 end:  0
+index:  1291  clause:  10208 -28095 10244 74 12498 245 10650 188 10846  support:  1290 580  pivot:  10649 end:  0
+index:  1292  clause:  -28095 8801 10244 263 74 12498 245 10650 188 10846  support:  1291 255  pivot:  10208 end:  0
+index:  1293  clause:  -28095 8801 10244 8998 74 12498 245 10650 -8997 188 10846  support:  1292 245  pivot:  263 end:  0
+index:  1294  clause:  -28095 8801 8802 10244 8998 74 12498 245 10650 188 10846  support:  1293 244  pivot:  -8997 end:  0
+index:  1295  clause:  -28095 8801 8802 10244 8998 74 12498 242 10650 188 10846  support:  1294 10  pivot:  245 end:  0
+index:  1296  clause:  -28095 8801 8802 10244 8998 74 8396 12498 -8395 10650 188 10846  support:  1295 213  pivot:  242 end:  0
+index:  1297  clause:  -28095 8801 8802 10244 8998 8360 74 8396 12498 10650 188 10846  support:  1296 212  pivot:  -8395 end:  0
+index:  1298  clause:  -28095 8802 10244 8998 8360 74 8396 12498 10650 188 10846  support:  1297 603  pivot:  8801 end:  0
+index:  1299  clause:  -28095 8802 10244 8998 6953 74 8396 206 12498 10650 188 10846  support:  1298 207  pivot:  8360 end:  0
+index:  1300  clause:  -28095 8802 10244 8998 6953 74 8396 7150 12498 -7149 10650 188 10846  support:  1299 197  pivot:  206 end:  0
+index:  1301  clause:  -28095 8802 10244 8998 6953 74 6954 8396 7150 12498 10650 188 10846  support:  1300 196  pivot:  -7149 end:  0
+index:  1302  clause:  -28095 8802 10244 8998 6953 74 6954 8396 7150 12498 185 10650 10846  support:  1301 7  pivot:  188 end:  0
+index:  1303  clause:  -28095 8802 10244 8998 6953 74 6954 8396 -6547 7150 12498 6548 10650 10846  support:  1302 164  pivot:  185 end:  0
+index:  1304  clause:  -28095 8802 10244 8998 6953 74 6954 8396 7150 6512 12498 6548 10650 10846  support:  1303 163  pivot:  -6547 end:  0
+index:  1305  clause:  -28095 8802 10244 8998 74 6954 8396 7150 6512 12498 6548 10650 10846  support:  1304 609  pivot:  6953 end:  0
+index:  1306  clause:  -28095 8802 10244 8998 74 6954 8396 7150 12498 5105 6548 149 10650 10846  support:  1305 158  pivot:  6512 end:  0
+index:  1307  clause:  -28095 8802 10244 8998 74 6954 8396 -5301 7150 5105 12498 6548 5302 10650 10846  support:  1306 148  pivot:  149 end:  0
+index:  1308  clause:  -28095 8802 10244 8998 74 6954 8396 7150 5105 12498 5106 6548 5302 10650 10846  support:  1307 147  pivot:  -5301 end:  0
+index:  1309  clause:  -28095 8802 10244 8998 74 6954 8396 7150 12498 5106 6548 5302 1497 10650 10846  support:  1308 653  pivot:  5105 end:  0
+index:  1310  clause:  -28095 8802 10244 8998 74 6954 8396 7150 5106 6548 5302 1497 10650 10846  support:  1309 576  pivot:  12498 end:  0
+index:  1311  clause:  -28095 8802 10244 8998 74 6954 8396 7150 5106 6548 5302 1497 10846  support:  1310 584  pivot:  10650 end:  0
+index:  1312  clause:  -28095 10244 8998 74 6954 8396 7150 5106 6548 5302 1497 10846  support:  1311 605  pivot:  8802 end:  0
+index:  1313  clause:  -28095 10244 8998 74 8396 7150 5106 6548 5302 1497 10846  support:  1312 611  pivot:  6954 end:  0
+index:  1314  clause:  -28095 10244 8998 74 8396 7150 6548 5302 1497 10846  support:  1313 1281  pivot:  5106 end:  0
+index:  1315  clause:  131 10244 8998 74 8396 7150 6548 5302 1497 10846  support:  1314 458  pivot:  -28095 end:  0
+index:  1316  clause:  131 10244 8998 74 8396 7150 6548 5302 1497  support:  1315 295  pivot:  10846 end:  0
+index:  1317  clause:  131 8998 74 8396 7150 6548 5302 1497  support:  1316 262  pivot:  10244 end:  0
+index:  1318  clause:  131 74 8396 7150 6548 5302 1497  support:  1317 247  pivot:  8998 end:  0
+index:  1319  clause:  131 6548 5302 1497 74 7150  support:  1318 214  pivot:  8396 end:  0
+index:  1320  clause:  131 6548 5302 1497 74  support:  1319 199  pivot:  7150 end:  0
+index:  1321  clause:  131 5302 1497 74  support:  1320 165  pivot:  6548 end:  0
+index:  1322  clause:  131 1497 74  support:  1321 150  pivot:  5302 end:  0
+index:  1323  clause:  73 131 1497  support:  1322 2  pivot:  74 end:  0
+index:  1324  clause:  1312 131 -2855 1497  support:  1323 78  pivot:  73 end:  0
+index:  1325  clause:  17 131 -2855 1497  support:  1324 34  pivot:  1312 end:  0
+index:  1326  clause:  1183 -1182 131 -2855 1497  support:  1325 32  pivot:  17 end:  0
+index:  1327  clause:  -1182 131 -2855 1497  support:  1326 33  pivot:  1183 end:  0
+index:  1328  clause:  131 -2855 1147 1497  support:  1327 31  pivot:  -1182 end:  0
+index:  1329  clause:  -2855 1147 1497  support:  1328 699  pivot:  131 end:  0
+index:  1330  clause:  -2855 1147  support:  1329 623  pivot:  1497 end:  0
+index:  1331  clause:  1147  support:  1330 506  pivot:  -2855 end:  0
+index:  1332  clause:  6  support:  30 1331  pivot:  -1147 end:  0
+index:  1333  clause:  -6 -913  support:  29 28  pivot:  -914 end:  0
+index:  1334  clause:  -913  support:  1333 1332  pivot:  -6 end:  0
+index:  1335  clause:  912  support:  27 1334  pivot:  913 end:  0
+index:  1336  clause:  -912 -27 1498 28  support:  50 44  pivot:  -1496 end:  0
+index:  1337  clause:  -912 -27 1494 -1495 1498  support:  1336 42  pivot:  28 end:  0
+index:  1338  clause:  -912 -27 1494 -1497 1498  support:  1337 48  pivot:  -1495 end:  0
+index:  1339  clause:  -912 1494 -1497 1498  support:  1338 49  pivot:  -27 end:  0
+index:  1340  clause:  1494 -1497 1498  support:  1339 1335  pivot:  -912 end:  0
+index:  1341  clause:  1494 -1497 -4664 3258  support:  1340 662  pivot:  1498 end:  0
+index:  1342  clause:  5106 1494 -4664 3258 -5105  support:  1341 653  pivot:  -1497 end:  0
+index:  1343  clause:  5106 1494 3258 -5105  support:  1342 615  pivot:  -4664 end:  0
+index:  1344  clause:  5106 3258 -5105  support:  1343 470  pivot:  1494 end:  0
+index:  1345  clause:  -28095 74 302 12498 12056 -28099 -28097  support:  461 599  pivot:  28101 end:  0
+index:  1346  clause:  -28095 74 302 12498 245 12056 -28097  support:  1345 460  pivot:  -28099 end:  0
+index:  1347  clause:  -28095 74 302 12498 245 12056 188  support:  1346 459  pivot:  -28097 end:  0
+index:  1348  clause:  320 -28095 74 302 12498 245 10649 188  support:  1347 303  pivot:  12056 end:  0
+index:  1349  clause:  -28095 -10845 74 302 12498 245 10649 188 10846  support:  1348 293  pivot:  320 end:  0
+index:  1350  clause:  -28095 -10845 74 302 12498 245 10649 188  support:  1349 295  pivot:  10846 end:  0
+index:  1351  clause:  -28095 74 302 12498 245 10649 10650 188  support:  1350 292  pivot:  -10845 end:  0
+index:  1352  clause:  -28095 74 299 12498 245 10649 10650 188  support:  1351 13  pivot:  302 end:  0
+index:  1353  clause:  -28095 10244 74 12498 245 10649 10650 188 -10243  support:  1352 261  pivot:  299 end:  0
+index:  1354  clause:  -28095 74 12498 245 10649 10650 188 -10243  support:  1353 262  pivot:  10244 end:  0
+index:  1355  clause:  10208 -28095 74 12498 245 10649 10650 188  support:  1354 260  pivot:  -10243 end:  0
+index:  1356  clause:  10208 -28095 74 12498 245 10650 188  support:  1355 580  pivot:  10649 end:  0
+index:  1357  clause:  -28095 8801 263 74 12498 245 10650 188  support:  1356 255  pivot:  10208 end:  0
+index:  1358  clause:  -28095 8801 8998 74 12498 245 10650 -8997 188  support:  1357 245  pivot:  263 end:  0
+index:  1359  clause:  -28095 8801 74 12498 245 10650 -8997 188  support:  1358 247  pivot:  8998 end:  0
+index:  1360  clause:  -28095 8801 8802 74 12498 245 10650 188  support:  1359 244  pivot:  -8997 end:  0
+index:  1361  clause:  -28095 8801 8802 74 12498 242 10650 188  support:  1360 10  pivot:  245 end:  0
+index:  1362  clause:  -28095 8801 8802 74 8396 12498 -8395 10650 188  support:  1361 213  pivot:  242 end:  0
+index:  1363  clause:  -28095 8801 8802 74 12498 -8395 10650 188  support:  1362 214  pivot:  8396 end:  0
+index:  1364  clause:  -28095 8801 8802 8360 74 12498 10650 188  support:  1363 212  pivot:  -8395 end:  0
+index:  1365  clause:  -28095 8802 8360 74 12498 10650 188  support:  1364 603  pivot:  8801 end:  0
+index:  1366  clause:  -28095 8802 6953 74 206 12498 10650 188  support:  1365 207  pivot:  8360 end:  0
+index:  1367  clause:  -28095 8802 6953 74 7150 12498 -7149 10650 188  support:  1366 197  pivot:  206 end:  0
+index:  1368  clause:  -28095 8802 6953 74 12498 -7149 10650 188  support:  1367 199  pivot:  7150 end:  0
+index:  1369  clause:  -28095 8802 6953 74 6954 12498 10650 188  support:  1368 196  pivot:  -7149 end:  0
+index:  1370  clause:  -28095 8802 6953 74 6954 12498 185 10650  support:  1369 7  pivot:  188 end:  0
+index:  1371  clause:  -28095 8802 6953 74 6954 -6547 12498 6548 10650  support:  1370 164  pivot:  185 end:  0
+index:  1372  clause:  -28095 8802 6953 74 6954 -6547 12498 10650  support:  1371 165  pivot:  6548 end:  0
+index:  1373  clause:  -28095 8802 6953 74 6954 6512 12498 10650  support:  1372 163  pivot:  -6547 end:  0
+index:  1374  clause:  -28095 8802 74 6954 6512 12498 10650  support:  1373 609  pivot:  6953 end:  0
+index:  1375  clause:  -28095 8802 74 6954 12498 5105 149 10650  support:  1374 158  pivot:  6512 end:  0
+index:  1376  clause:  -28095 8802 74 6954 -5301 5105 12498 5302 10650  support:  1375 148  pivot:  149 end:  0
+index:  1377  clause:  -28095 8802 74 6954 -5301 5105 12498 10650  support:  1376 150  pivot:  5302 end:  0
+index:  1378  clause:  -28095 8802 74 6954 5105 12498 5106 10650  support:  1377 147  pivot:  -5301 end:  0
+index:  1379  clause:  -28095 8802 3258 74 6954 12498 5106 10650  support:  1378 1344  pivot:  5105 end:  0
+index:  1380  clause:  -28095 8802 74 6954 10650 12498 5106  support:  1379 738  pivot:  3258 end:  0
+index:  1381  clause:  -28095 8802 74 6954 5106 10650  support:  1380 576  pivot:  12498 end:  0
+index:  1382  clause:  -28095 8802 5106 74 6954  support:  1381 584  pivot:  10650 end:  0
+index:  1383  clause:  -28095 5106 74 6954  support:  1382 605  pivot:  8802 end:  0
+index:  1384  clause:  -28095 5106 74  support:  1383 611  pivot:  6954 end:  0
+index:  1385  clause:  -28095 74  support:  1384 1281  pivot:  5106 end:  0
+index:  1386  clause:  -912 -27 1498 28  support:  50 44  pivot:  -1496 end:  0
+index:  1387  clause:  -912 -27 1494 -1495 1498  support:  1386 42  pivot:  28 end:  0
+index:  1388  clause:  -912 -27 1494 -1497 1498  support:  1387 48  pivot:  -1495 end:  0
+index:  1389  clause:  -912 1494 -1497 1498  support:  1388 49  pivot:  -27 end:  0
+index:  1390  clause:  -912 1494 -1497 -1605  support:  1389 53  pivot:  1498 end:  0
+index:  1391  clause:  -912 35 1494 -1497 1606  support:  1390 56  pivot:  -1605 end:  0
+index:  1392  clause:  -912 -2816 1494 -1497 1606 2719  support:  1391 66  pivot:  35 end:  0
+index:  1393  clause:  -912 2851 1494 -1497 1606 2719  support:  1392 70  pivot:  -2816 end:  0
+index:  1394  clause:  2852 1606 -1497 -912 1494 -71 2719  support:  1393 71  pivot:  2851 end:  0
+index:  1395  clause:  2852 1606 -1497 -912 1494 -2856 2719  support:  1394 79  pivot:  -71 end:  0
+index:  1396  clause:  2852 1606 -1497 -912 1494 -2953 2719  support:  1395 81  pivot:  -2856 end:  0
+index:  1397  clause:  2852 1606 -1497 -912 2037 1494 -2953 -36  support:  1396 64  pivot:  2719 end:  0
+index:  1398  clause:  2852 1606 -1497 -912 1494 -2953 -38 -36  support:  1397 63  pivot:  2037 end:  0
+index:  1399  clause:  2852 1606 -1497 1608 1609 -912 1494 -2953 -36  support:  1398 61  pivot:  -38 end:  0
+index:  1400  clause:  2852 1606 -1497 1609 -912 -1423 1494 -2953 -36  support:  1399 60  pivot:  1608 end:  0
+index:  1401  clause:  2849 2852 1606 -1497 1609 -912 1494 -2953 -36  support:  1400 67  pivot:  -1423 end:  0
+index:  1402  clause:  2850 2852 1606 -1497 1609 -912 1494 -2953 -70 -36  support:  1401 68  pivot:  2849 end:  0
+index:  1403  clause:  2850 2852 1606 -1497 1609 -912 1494 -2953 -36  support:  1402 80  pivot:  -70 end:  0
+index:  1404  clause:  -4703 2850 2852 1606 -1497 1609 -912 1494 -36 -130  support:  1403 125  pivot:  -2953 end:  0
+index:  1405  clause:  -4703 2850 1606 -1497 1609 -912 1494 -36 -130  support:  1404 72  pivot:  2852 end:  0
+index:  1406  clause:  -4703 1606 -1497 1609 -912 1494 -36 -130  support:  1405 69  pivot:  2850 end:  0
+index:  1407  clause:  -4703 1606 -1497 -912 1494 -36 -130  support:  1406 62  pivot:  1609 end:  0
+index:  1408  clause:  -4703 1606 -1497 1607 -912 1494 1531 -130  support:  1407 58  pivot:  -36 end:  0
+index:  1409  clause:  -4703 1606 -1497 -912 1494 1531 -130  support:  1408 59  pivot:  1607 end:  0
+index:  1410  clause:  -912 -4703 -1497 1494 1531 -130  support:  1409 57  pivot:  1606 end:  0
+index:  1411  clause:  -912 -4703 1494 -1497 -130  support:  1410 52  pivot:  1531 end:  0
+index:  1412  clause:  -4703 1494 -1497 -130  support:  1411 1335  pivot:  -912 end:  0
+index:  1413  clause:  -4703 1494 -131 -130  support:  1412 699  pivot:  -1497 end:  0
+index:  1414  clause:  -4703 1494 -131  support:  1413 5  pivot:  -130 end:  0
+index:  1415  clause:  -131 1494  support:  1414 510  pivot:  -4703 end:  0
+index:  1416  clause:  -131  support:  1415 470  pivot:  1494 end:  0
+index:  1417  clause:  28095  support:  458 1416  pivot:  131 end:  0
+index:  1418  clause:  74  support:  1417 1385  pivot:  28095 end:  0
+index:  1419  clause:  71  support:  1418 1  pivot:  74 end:  0
+index:  1420  clause:  70  support:  1418 0  pivot:  74 end:  0
+index:  1421  clause:  -71 -2851  support:  72 71  pivot:  -2852 end:  0
+index:  1422  clause:  -2851  support:  1421 1419  pivot:  -71 end:  0
+index:  1423  clause:  2816  support:  70 1422  pivot:  2851 end:  0
+index:  1424  clause:  -70 -2849  support:  69 68  pivot:  -2850 end:  0
+index:  1425  clause:  -2849  support:  1424 1420  pivot:  -70 end:  0
+index:  1426  clause:  1423  support:  67 1425  pivot:  2849 end:  0
+index:  1427  clause:  -1608  support:  60 1426  pivot:  -1423 end:  0
+index:  1428  clause:  1608 38  support:  62 61  pivot:  -1609 end:  0
+index:  1429  clause:  38  support:  1428 1427  pivot:  1608 end:  0
+index:  1430  clause:  -2037  support:  63 1429  pivot:  -38 end:  0
+index:  1431  clause:  -912 -27 1498 28  support:  50 44  pivot:  -1496 end:  0
+index:  1432  clause:  -912 -27 1494 -1495 1498  support:  1431 42  pivot:  28 end:  0
+index:  1433  clause:  -912 -27 1494 -1497 1498  support:  1432 48  pivot:  -1495 end:  0
+index:  1434  clause:  -912 1494 -1497 1498  support:  1433 49  pivot:  -27 end:  0
+index:  1435  clause:  -912 1494 -1497 -1605  support:  1434 53  pivot:  1498 end:  0
+index:  1436  clause:  -912 35 1494 -1497 1606  support:  1435 56  pivot:  -1605 end:  0
+index:  1437  clause:  -912 -2816 1494 -1497 1606 2719  support:  1436 66  pivot:  35 end:  0
+index:  1438  clause:  -2816 1606 -1497 -912 2037 1494 -36  support:  1437 64  pivot:  2719 end:  0
+index:  1439  clause:  -2816 1606 -1497 1607 -912 2037 1494 1531  support:  1438 58  pivot:  -36 end:  0
+index:  1440  clause:  -2816 1606 -1497 -912 2037 1494 1531  support:  1439 59  pivot:  1607 end:  0
+index:  1441  clause:  -2816 -912 2037 -1497 1494 1531  support:  1440 57  pivot:  1606 end:  0
+index:  1442  clause:  -2816 -912 2037 1494 -1497  support:  1441 52  pivot:  1531 end:  0
+index:  1443  clause:  -2816 -912 1494 -1497  support:  1442 1430  pivot:  2037 end:  0
+index:  1444  clause:  -912 1494 -1497  support:  1443 1423  pivot:  -2816 end:  0
+index:  1445  clause:  1494 -1497  support:  1444 1335  pivot:  -912 end:  0
+index:  1446  clause:  -1497  support:  1445 470  pivot:  1494 end:  0
+index:  1447  clause:  -2816 35  support:  65 1446  pivot:  1497 end:  0
+index:  1448  clause:  35  support:  1447 1423  pivot:  -2816 end:  0
+index:  1449  clause:  27 -1147  support:  45 1446  pivot:  1497 end:  0
+index:  1450  clause:  27  support:  1449 1331  pivot:  -1147 end:  0
+index:  1451  clause:  1497 -1495  support:  47 1450  pivot:  -27 end:  0
+index:  1452  clause:  -1495  support:  1451 1446  pivot:  1497 end:  0
+index:  1453  clause:  -1605 -35  support:  57 55  pivot:  -1606 end:  0
+index:  1454  clause:  -1605  support:  1453 1448  pivot:  -35 end:  0
+index:  1455  clause:  1498  support:  54 1454  pivot:  1605 end:  0
+index:  1456  clause:  28 -1147  support:  40 1452  pivot:  1495 end:  0
+index:  1457  clause:  28  support:  1456 1331  pivot:  -1147 end:  0
+index:  1458  clause:  -1496  support:  43 1457  pivot:  -28 end:  0
+index:  1459  clause:  -27 -1498  support:  51 1458  pivot:  1496 end:  0
+index:  1460  clause:  -27  support:  1459 1455  pivot:  -1498 end:  0
+index:  1461  clause:    support:  1460 1450  pivot:  -27 end:  0
+DEGREE: 17
